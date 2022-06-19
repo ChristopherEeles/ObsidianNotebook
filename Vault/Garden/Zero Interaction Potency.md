@@ -33,7 +33,7 @@ The equation for calculating expected viability under the [[Bliss Independence]]
 
 Therefore, expected viability under the ZIP null model can be dervied by subsituting (ZIP-3) into (Bliss-7):
 
-$$ v_{ZIP} = \frac{1}{1 + (\frac{x_1}{m_1})^\lambda_1}\frac{1}{1 + (\frac{x_2}{m_2})^\lambda} \tag{ZIP-4} $$
+$$ v_{ZIP} = \frac{1}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{1}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-4} $$
 
 Since it is rare for a compound to eradicate the entire cell population, especially when being tested in plausibly clinical concentration ranges, the assumption that $E_{max} = 0$ is likely untenable. Therefore it may be more appropriate to use the fully parameterized Hill equation such that:
 
