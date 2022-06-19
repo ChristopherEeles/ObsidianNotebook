@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "cc576a13fee3cbfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0788ba51aa7efdb5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Garden/Zero Interaction Potency.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c45dd356c8439e23",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd7c2ec6a7bac3d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c6e25d529a4037",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e378d7aab87052b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.0083885192871
+  },
+  "right": {
+    "id": "3e636f0eb7b5f63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef9964e61c917e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d63f4c8f80d0725",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vault/Garden/Zero Interaction Potency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0788ba51aa7efdb5",
+  "lastOpenFiles": [
+    "Vault/Garden/Zero Interaction Potency.md",
+    "Vault/Garden/Loewe Additivity.md",
+    "Vault/Garden/Hill Equation.md",
+    "Vault/Garden/Highest Single Agent.md",
+    "Bliss Independence^.md",
+    "Vault/Garden/Drug Combinations.md",
+    "Vault/Garden/Bliss Independence.md"
+  ]
+}

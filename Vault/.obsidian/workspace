@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "b26e6d706ca329d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "10513cdcfe9ae04a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Garden/Zero Interaction Potency.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab51991ff2a2d34a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2350e8a7c63eeff9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dcbf59e7c56c1d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f06e7f7f925113c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.0107650756836
+  },
+  "right": {
+    "id": "62149c602754b791",
+    "type": "split",
+    "children": [
+      {
+        "id": "dae3e249055ec5a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "068d734e1f4bcd48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Garden/Zero Interaction Potency.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae0c8608fbbc232f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "10513cdcfe9ae04a",
+  "lastOpenFiles": [
+    "Garden/Zero Interaction Potency.md",
+    "Garden/Bliss Independence.md",
+    "Garden/Hill Equation.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Highest Single Agent.md",
+    "References/@yadavSearchingDrugSynergy2015.md",
+    "References/@gesztelyiHillEquationOrigin2012.md",
+    "Garden/Dose-Response.md",
+    "Garden/Pharmacology.md"
+  ]
+}

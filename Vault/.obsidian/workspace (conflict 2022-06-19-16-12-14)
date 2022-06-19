@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "b26e6d706ca329d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "10513cdcfe9ae04a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Garden/Bliss Independence.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0e151e94f7c0d61",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73f306cb5134f103",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "250f4968064b9b72",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e7535e6832f4c0aa",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "960f0388d5664a8b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f4fc22acb474540d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Garden/Bliss Independence.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "10513cdcfe9ae04a",
+  "lastOpenFiles": [
+    "Garden/Bliss Independence.md",
+    "Garden/Zero Interaction Potency.md",
+    "Garden/Loewe Additivity.md",
+    "References/@yadavSearchingDrugSynergy2015.md",
+    "Garden/Hill Equation.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Highest Single Agent.md",
+    "References/@gesztelyiHillEquationOrigin2012.md",
+    "Garden/Dose-Response.md",
+    "Garden/Pharmacology.md"
+  ]
+}
