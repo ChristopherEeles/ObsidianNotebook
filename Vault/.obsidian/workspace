@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ecfb7955f53955e2",
+        "id": "c9290091d13bcb3a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Garden/Zero Interaction Potency.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -91,25 +91,24 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "ecfb7955f53955e2",
+  "active": "c9290091d13bcb3a",
   "lastOpenFiles": [
     "Garden/Zero Interaction Potency.md",
+    "References/@yadavSearchingDrugSynergy2015.md",
+    "Garden/Bliss Independence.md",
     "Garden/Loewe Additivity.md",
     "Garden/Hill Equation.md",
     "Garden/Highest Single Agent.md",
-    "Garden/Bliss Independence.md",
-    "Work/CodeOcean AWS Cluster Cost Estimates.md",
     "Garden/Drug Combinations.md",
-    "References/@yadavSearchingDrugSynergy2015.md",
     "References/@gesztelyiHillEquationOrigin2012.md",
-    "Garden/Dose-Response.md"
+    "Garden/Dose-Response.md",
+    "Garden/Pharmacology.md"
   ]
 }

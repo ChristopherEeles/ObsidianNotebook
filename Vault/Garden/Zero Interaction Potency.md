@@ -43,6 +43,9 @@ $$v_{ZIP} = \frac{E_{min}^1 + E_{max}^1(\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac
 Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ required for $\delta_{ZIP}$ to be interpretable? 
 ```
 
+## ZIP Delta Score
+
+
 
 ---
 # References
