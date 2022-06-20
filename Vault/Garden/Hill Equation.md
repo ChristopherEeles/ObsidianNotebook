@@ -40,7 +40,7 @@ $$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n
 
 
 ## Four Parameter Hill Equation[^2]
-The most complete from of the Hill equation for stimuli-response curves has four parameters:
+The most complete form of the Hill equation for stimuli-response curves has four parameters:
 $$y = \frac{E_{min} + E_{max}(\frac{x}{m})^\lambda}{1 + (\frac{x}{m})^\lambda} \tag{Hill-3}$$ ^70470f
 - Where:
 	- $x$ is the dose of the stimuli
