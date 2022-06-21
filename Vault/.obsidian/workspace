@@ -19,84 +19,69 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ab51991ff2a2d34a",
-    "type": "split",
+    "id": "2014eff22a94abfe",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "2350e8a7c63eeff9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0dcbf59e7c56c1d3",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f06e7f7f925113c",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "e22ded86c56a591b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "56ebba12a433f40d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
+      },
+      {
+        "id": "13625e4068c65753",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 201.0107650756836
+    "currentTab": 0
   },
   "right": {
-    "id": "62149c602754b791",
-    "type": "split",
+    "id": "3094fadd3e18ae40",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "dae3e249055ec5a0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "068d734e1f4bcd48",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Garden/Zero Interaction Potency.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "ae0c8608fbbc232f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
+        "id": "e1a43e75a22f0b00",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Garden/Zero Interaction Potency.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
   "active": "c9290091d13bcb3a",
   "lastOpenFiles": [
