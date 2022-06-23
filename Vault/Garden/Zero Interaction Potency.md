@@ -20,11 +20,11 @@ $$y_{ZIP}= \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} +
 Where $y$ is predicted the biological response; $\lambda_1$ and $m_1$ are the Hill slope and $EC50$ of the dose-response curve.
 
 ## Zero Interaction Potency from Viability
-To adapt ZIP to be computed from viability instead of response, we need to adjust the equations used to derive it accordingly.
+To adapt ZIP to be computed from viability instead of response, we need to adjust the equations used to derive.
 
 In viability assays, such as those assessing the degree of cell killing caused by a specific dose of a compound, the direction of $E_{min}, E_{max}$ are reversed such that a low $E_{max}$ respresents a strong response (i.e., lots of cell killing). Therefore analagous to the assumptions of ZIP for response, we assume $E_{max}=0$ and $E_{min}=1$. 
 
-Substituting into (Hill-7) therefore yields:
+Substituting into (Hill-7) yields:
 
 $$y = \frac{1}{1 + (\frac{x}{m})^\lambda} \tag{ZIP-3}$$
 
