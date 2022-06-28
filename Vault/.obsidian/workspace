@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Zero Interaction Potency.md",
+            "file": "Work/Joanna LMS Metaclustering.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Zero Interaction Potency.md",
+                "file": "Work/Joanna LMS Metaclustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +100,7 @@
   },
   "active": "c9290091d13bcb3a",
   "lastOpenFiles": [
+    "Work/Joanna LMS Metaclustering.md",
     "Garden/Zero Interaction Potency.md",
     "References/@yadavSearchingDrugSynergy2015.md",
     "Garden/Bliss Independence.md",
@@ -108,7 +109,6 @@
     "Garden/Highest Single Agent.md",
     "Garden/Drug Combinations.md",
     "References/@gesztelyiHillEquationOrigin2012.md",
-    "Garden/Dose-Response.md",
-    "Garden/Pharmacology.md"
+    "Garden/Dose-Response.md"
   ]
 }
