@@ -49,7 +49,7 @@ Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ requi
 ```
 
 ## ZIP Delta Score[^1]
-Reasoned from (ZIP-5) that drug interactions can be modeled as the observed potency shift relative to the ZIP null prediction of biological response to quantify the degree of interaction.
+Reasoned from (ZIP-5) that drug interactions can be modeled as the observed potency shift relative to the ZIP null prediction of biological response to quantify the magnitude and direction of the interaction.
 
 
 ---
