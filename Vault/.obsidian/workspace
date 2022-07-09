@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c9290091d13bcb3a",
+        "id": "ad528cd9def300c7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 193.0107650756836
   },
   "right": {
     "id": "f224b15bb5c8ed15",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9290091d13bcb3a",
+  "active": "ad528cd9def300c7",
   "lastOpenFiles": [
     "Garden/Zero Interaction Potency.md",
+    "Work/Sklearn Estimators.md",
+    "References/@yadavSearchingDrugSynergy2015.md",
     "Garden/Loewe Additivity.md",
     "Garden/Hill Equation.md",
     "Garden/Highest Single Agent.md",
     "Garden/Drug Combinations.md",
     "Garden/Bliss Independence.md",
     "Work/Joanna LMS Metaclustering.md",
-    "References/@yadavSearchingDrugSynergy2015.md",
-    "References/@gesztelyiHillEquationOrigin2012.md",
-    "Garden/Dose-Response.md"
+    "References/@gesztelyiHillEquationOrigin2012.md"
   ]
 }
