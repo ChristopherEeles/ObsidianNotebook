@@ -53,7 +53,9 @@ Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ requi
 
 Reasoned from (ZIP-5) that drug interactions can be modeled as the observed potency shift relative to the ZIP null prediction of biological response to quantify the magnitude and direction of the interaction. Therefore, the expected response when drug 2 is added to 1 drug is:
 $$y_{1\leftarrow2} = \frac{y_2 + (\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} = \frac{\frac{1}{1 + (\frac{x_2}{m_2})^{\lambda_2}} + (\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}} \tag{ZIP-6}$$
-
+```ad-warning
+$y_2 = \frac{1}{1 + (x_2 / m_2)^\lambda_2)}
+```
 
 
 ### Viability Case
