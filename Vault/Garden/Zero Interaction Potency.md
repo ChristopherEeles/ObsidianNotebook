@@ -9,14 +9,14 @@ Tags: [[Pharmacology]] [[Drug Combinations]]
 ![[Hill Equation#^70470f]]
 
 Assuming $E_{max}=1$ and $E_{min}=0$ we can predict the effect from a simplified [[Hill equation]] at dose $x$ as:
-$$y = \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}}  \tag{ZIP-1}$$ 
+$$\LARGE y = \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}}  \tag{ZIP-1}$$ 
 Since the Zero Interaction Potency (ZIP) combines the dose-response curve from the [[Loewe Additivity]] model with the [[Bliss Independence]] models, we are able to derive the expected response under the ZIP null model by substituting (ZIP-1) into (Bliss-1):
 
 ![[Bliss Independence#^e61386]]
 
 Such that:
 
-$$y_{ZIP}= \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} + \frac{(\frac{x}{m_2})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} - \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}}\frac{(\frac{x}{m_1})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} \tag{ZIP-2}$$ 
+$$\LARGE y_{ZIP}= \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} + \frac{(\frac{x}{m_2})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} - \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}}\frac{(\frac{x}{m_1})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} \tag{ZIP-2}$$ 
 
 Where $y$ is predicted the biological response; $\lambda_1$ and $m_1$ are the Hill slope and $EC50$ of the dose-response curve, respectively.
 
@@ -31,18 +31,18 @@ In viability assays, such as those assessing the degree of cell killing caused b
 
 Substituting into (Hill-3) yields:
 
-$$y = \frac{1}{1 + (\frac{x}{m})^\lambda} \tag{ZIP-3}$$
+$$\LARGE y = \frac{1}{1 + (\frac{x}{m})^\lambda} \tag{ZIP-3}$$
 
 The equation for calculating expected viability under the [[Bliss Independence]] null model is:
 ![[Bliss Independence#^2828c0]]
 
 Therefore, expected viability under the ZIP null model can be dervied by subsituting (ZIP-3) into (Bliss-7):
 
-$$ v_{ZIP} = \frac{1}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{1}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-4} $$
+$$\LARGE v_{ZIP} = \frac{1}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{1}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-4} $$
 
 Since it is rare for a compound to eradicate the entire cell population, especially when being tested in plausibly clinical concentration ranges, the assumption that $E_{max} = 0$ is likely untenable. Therefore it may be more appropriate to use the fully parameterized [[Hill equation]] such that:
 
-$$v_{ZIP} = \frac{E_{min}^1 + E_{max}^1(\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{E_{min}^2 + E_{max}^2(\frac{x_2}{m_2})^{\lambda_2}}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-5}$$
+$$\LARGE v_{ZIP} = \frac{E_{min}^1 + E_{max}^1(\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{E_{min}^2 + E_{max}^2(\frac{x_2}{m_2})^{\lambda_2}}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-5}$$
 
 ```ad-question
 Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ required for $\delta_{ZIP}$ to be interpretable? 
@@ -52,9 +52,9 @@ Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ requi
 ### Response Case
 
 Reasoned from (ZIP-5) that drug interactions can be modeled as the observed potency shift relative to the ZIP null prediction of biological response to quantify the magnitude and direction of the interaction. Therefore, the expected response when drug 2 is added to 1 drug is:
-$$y_{1\leftarrow2} = \frac{y_2 + (\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} = \frac{\frac{1}{1 + (\frac{x_2}{m_2})^{\lambda_2}} + (\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}} \tag{ZIP-6}$$
-```ad-warning
-$y_2 = \frac{1}{1 + (x_2 / m_2)^\lambda_2)}
+$$\LARGE y_{1\leftarrow2} = \frac{y_2 + (\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} = \frac{\frac{1}{1 + (\frac{m_2}{x_2})^{\lambda_2}} + (\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}} \tag{ZIP-6}$$
+```ad-note
+$\LARGE y_2 = \frac{1}{1 + (\frac{m_2}{x_2})^{\lambda_2}}$ comes from (A2.3) and (A2.4) of [1] via the assertion that $\LARGE (\frac{x_n}{m_n})^{\lambda_n} = \frac{1 + (\frac{x_n}{m_n})^{\lambda_n}}{1 + (\frac{m_n}{x_n})^{\lambda_n}}$
 ```
 
 
