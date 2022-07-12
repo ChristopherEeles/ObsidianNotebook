@@ -11,7 +11,7 @@ $$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n
 	- $[L_nR]$ is concentration of receptor-ligand complex
 	- $[L]$ is total ligand concentration; $[R_0]$ is total receptor concentration (in excess)
 	- $k_1$ and $k_2$ are association and dissociation rates;
-	- $K_d$ is equillibrium dissociation constant; $K_A$ is $[L]$ for $[L_nR]_{50}$ ($K_A = K_d~if~n = 1$); 
+	- $K_d$ is equillibrium dissociation constant; $K_A$ is $[L]$ for $[L_nR]_{50}$ ($K_A = K_d~iff~n = 1$); 
 	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity)
 
 - Delineation from __Hill Equation__ which generally refers to the biological response case
