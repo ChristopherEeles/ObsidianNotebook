@@ -45,7 +45,7 @@ Since it is rare for a compound to eradicate the entire cell population, especia
 $$\LARGE v_{ZIP} = \frac{E_{min}^1 + E_{max}^1(\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}}\frac{E_{min}^2 + E_{max}^2(\frac{x_2}{m_2})^{\lambda_2}}{1 + (\frac{x_2}{m_2})^{\lambda_2}} \tag{ZIP-5}$$
 
 ```ad-question
-Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ required for $\delta_{ZIP}$ to be interpretable? 
+Is the assumption that $E_{max}^1 = E_{max}^2$ and $E_{min}^1 = E_{min}^2$ required for $\delta_{ZIP}$ to be interpretable as a "potency shift"? 
 ```
 
 ## ZIP Delta Score[^1]
