@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Zero Interaction Potency.md",
+            "file": "Garden/Hill Equation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "cf22a3bcf73f1b7a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "References/@gesztelyiHillEquationOrigin2012.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Zero Interaction Potency.md",
+                "file": "Garden/Hill Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +112,15 @@
   },
   "active": "c9290091d13bcb3a",
   "lastOpenFiles": [
-    "Garden/Zero Interaction Potency.md",
     "Garden/Hill Equation.md",
+    "References/@gesztelyiHillEquationOrigin2012.md",
+    "Garden/Zero Interaction Potency.md",
     "Garden/Bliss Independence.md",
     "Garden/Loewe Additivity.md",
     "Garden/Highest Single Agent.md",
     "Garden/Drug Combinations.md",
     "Work/Joanna LMS Metaclustering.md",
     "References/@yadavSearchingDrugSynergy2015.md",
-    "References/@gesztelyiHillEquationOrigin2012.md",
     "Garden/Dose-Response.md"
   ]
 }
