@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "References/@gesztelyiHillEquationOrigin2012.md",
+            "file": "Garden/Hill Equation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "References/@gesztelyiHillEquationOrigin2012.md",
+                "file": "Garden/Hill Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,8 @@
   },
   "active": "b2e1f6964520c808",
   "lastOpenFiles": [
-    "Garden/Hill Equation.md",
     "References/@gesztelyiHillEquationOrigin2012.md",
+    "Garden/Hill Equation.md",
     "References/@huangPharmacometricsScienceQuantitative2007.md",
     "Garden/Bliss Independence.md",
     "References/@vanderborghtBIGLBiochemicallyIntuitive2017.md",

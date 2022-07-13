@@ -36,6 +36,8 @@ $$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n
 	* Dependent variable is biological response for this case
 * Caveats:
 	* The __Hill Equation__ for biological responses is a combination of both mechanistic and empirical parameters and has thus been criticized for excluding a factor for agonist-receptor activation via conformational change
+	* Due to the non-linear signal transduction factor, the Hill coefficient has a different value and meaning for the biological response case
+		* Specifically, $y = f_{}
 	* More complex mechanism-based models have been developed 
 
 
