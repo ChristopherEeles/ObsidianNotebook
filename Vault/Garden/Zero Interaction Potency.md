@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Pharmacology]] [[Drug Combinations]]
+Tags: [[Pharmacology]] [[Drug Combinations]] [[Quantitative Pharmacology]]
 
 # Zero Interaction Potency
 ## Zero Interaction Potency from Response[^1]

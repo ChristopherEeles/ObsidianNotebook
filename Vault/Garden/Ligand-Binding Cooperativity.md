@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Quantitative Pharmacology]]
 
 # Ligand-Binding Cooperativity
 
@@ -12,9 +12,15 @@ Let $n$ be the co-coperativity coefficient of a ligand-receptor binding reaction
 
 Consider the reactions:
 
+![[Pasted image 20220713164847.png]]
 
+Where:
+* $K_d$ is the coefficient of dissociation for each reaction step ($K_d \equiv \frac{k_1}{k_2}$; where $k$ is the rate constant for one reaction direction)
+
+The case where $n=1$ is generally considered for receptors with only a single binding site, but would also be valid for the receptors with multiple binding sites which statsify $$
 
 ### Positive Cooperativity
+
 
 
 #### Negative Cooperativity

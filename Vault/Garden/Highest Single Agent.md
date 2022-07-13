@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Drug Combinations]] [[Pharmacology]]
+Tags: [[Drug Combinations]] [[Pharmacology]] [[Quantitative Pharmacology]]
 
 # Highest Single Agent
 $$Y_{HSA} = max(y_1, y_2) \tag{HSA-1}$$

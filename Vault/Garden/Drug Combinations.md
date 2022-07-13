@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:  [[Highest Single Agent]] [[Loewe Additivity]] [[Bliss Independence]] [[Zero Interaction Potency]] [[Pharmacology]]
+Tags:  [[Highest Single Agent]] [[Loewe Additivity]] [[Bliss Independence]] [[Zero Interaction Potency]] [[Pharmacology]] [[Quantitative Pharmacology]]
 
 # Drug Combinations
 

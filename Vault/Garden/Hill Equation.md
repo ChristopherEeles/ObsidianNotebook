@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Dose-Response]] [[Ligand-Binding]] [[Pharmacology]]
+Tags: [[Dose-Response]] [[Ligand-Binding]] [[Pharmacology]] [[Quantitative Pharmacology]]
 
 # Hill Equation
 ## Hill-Langmuir Equation[^1]

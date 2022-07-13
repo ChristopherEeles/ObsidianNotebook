@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Drug Combinations]] [[Pharmacology]]
+Tags: [[Drug Combinations]] [[Pharmacology]] [[Quantitative Pharmacology]]
 
 # Bliss Independence
 $$\LARGE y_{bliss} = y_1 + y_2 - y_1y_2 \tag{Bliss-1}$$ ^e61386
