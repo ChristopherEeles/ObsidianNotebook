@@ -6,5 +6,6 @@ year: 2015
 
 ## Searching for Drug Synergy in Complex Dose–Response Landscapes Using an Interaction Potency Model
 
-zotero://select/items/@yadavSearchingDrugSynergy2015
-
+[See online](https://www.sciencedirect.com/science/article/pii/S2001037015000422)
+[See DOI](10.1016/j.csbj.2015.09.001)
+[See in Zotero](zotero://select/items/@yadavSearchingDrugSynergy2015)

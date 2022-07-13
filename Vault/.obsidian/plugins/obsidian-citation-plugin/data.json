@@ -2,7 +2,7 @@
   "citationExportFormat": "csl-json",
   "literatureNoteTitleTemplate": "@{{citekey}}",
   "literatureNoteFolder": "References",
-  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n## {{title}}\n\n{{URL}}\n{{zoteroS\n",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n## {{title}}\n\n[See online]({{URL}})\n[See DOI]({{DOI}})\n[See in Zotero]({{zoteroSelectURI}})",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",
   "citationExportPath": "C:\\Users\\chris\\OneDrive\\Obsidian\\Vault\\References\\ZoteroReferences.json"

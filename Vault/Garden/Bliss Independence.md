@@ -34,5 +34,5 @@ Synergy under this model is therefore defined as $v_{observed} < v_{bliss}$.
 
 ---
 # References
-1. [[@yadavSearchingDrugSynergy2015]]
+1. 
 2. [[@huangPharmacometricsScienceQuantitative2007]]
