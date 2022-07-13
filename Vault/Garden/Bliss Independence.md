@@ -30,7 +30,7 @@ $$\LARGE v_{bliss} = 1 - 1 + v_2 - 1 + v_2 + 1 - v_2 - v_1 + v_1v_2 = v_1v_2 \ta
  
  $$\LARGE v_{bliss} = v_1v_2 \tag{Bliss-7}$$ ^2828c0
 
-Synergy under this model is therefore defined as $v_{observed} < v_{bliss}$.
+Synergy under this model is therefore defined as $\large v_{observed} < v_{bliss}$.
 
 ---
 # References

@@ -16,7 +16,7 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$ ^7edd61
 	- $\ce{K_d}$ is equillibrium dissociation constant ($\ce{K_d \equiv \frac{k_1}{k_2}}$); $\ce{K_A}$ is $\ce{[L]}$ producing $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
 	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity and other assumptions met)
 
-- Delineation from __Hill Equation__ which generally refers to the biological response case
+- Delineation from __Hill Equation__ which generally refers to the biological response case (agonist-response):
 	- Dependent variable is \[ligand-receptor\] vs biological response (_i.e.,_ phenotype)
 - Good approximation of ligand-binding when binding is *specific* and *saturable*
 	- Specific: affinity between ligand and receptor is greater for eachother than other materials
@@ -32,15 +32,16 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$ ^7edd61
 
 ## Hill Equation[^1]
 
-- Delineation from __Hill-Langmuir Equation__ which models ligand-receptor binding
+- Delineation from __Hill-Langmuir Equation__ which models ligand-receptor binding:
 	-  Response is a function of agonist-receptor binding (occupation; _i.e._, the __Hill-Languir Equation__) plus a non-linear signal-transduction factor
 	- Derived from __Hill-Langmuir Equation__ by incorporating a signal-transduction function from _occupancy theory_ via _operational model of agonism_[^1]
 	* Dependent variable is biological response for this case
 * Caveats:
+	* Only valid for receptor agonist
 	* The __Hill Equation__ for biological responses is a combination of both mechanistic and empirical parameters and has thus been criticized for excluding a factor for agonist-receptor activation via conformational change
 	* Due to the non-linear signal transduction factor, the Hill coefficient has a different value and meaning for the biological response case
 		* Specifically, $y = f_{tranduction}([L_nR])$ where the transduction function is (1) not readily learnable and (2) almost certainly non-linear (due to the amplifying nature of signalling cascades)
-	* More complex mechanism-based models have been developed 
+	* More complex mechanism-based models have been developed which are able to isolate the ligand-receptor and agonist-response components of the Hill slope and therefore provide a mechanistic model describing the entire process; these models are specific to receptor sub-classes with common signalling mechanism (_.e.g,_ specific G-protein coupled receptors)
 
 
 ## Four Parameter Hill Equation[^2]

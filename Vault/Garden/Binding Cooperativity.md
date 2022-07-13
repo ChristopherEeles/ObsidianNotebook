@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Quantitative Pharmacology]]
+Tags: [[Quantitative Pharmacology]] [[Ligand-Receptor]] [[Ligand-Binding]]
 
 # Ligand-Binding Cooperativity
 
@@ -11,8 +11,7 @@ For situations where a receptor has more than one binding site, co-operativity i
 Let $n$ be the co-coperativity coefficient of a ligand-receptor binding reaction. For cases when $n = 1$, the binding is said to be non-cooperative (_i.e.,_ the probability of ligand binding the receptor is constant).
 
 Consider the reactions:
-
-![[Pasted image 20220713164847.png]]
+![[Binding Mechanisms#^3486b3]]
 
 Where:
 * $K_d$ is the coefficient of dissociation for each reaction step ($K_d \equiv \frac{k_1}{k_2}$; where $k$ is the rate constant for one reaction direction)
@@ -28,4 +27,4 @@ Binding of one ligand decreases the probability of subsequent ligand binding to 
 
 ---
 # References
-1. [[@weissHillEquationRevisited1997]]
+[^1]: [[@weissHillEquationRevisited1997]]
