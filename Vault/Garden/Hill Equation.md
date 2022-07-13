@@ -35,7 +35,7 @@ $$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n
 	- Derived from __Hill-Langmuir Equation__ by incorporating a signal-transduction function from _occupancy theory_ via _operational model of agonism_[^1]
 	* Dependent variable is biological response for this case
 * Caveats:
-	* The __Hill Equation__ for biological responses is a combination of both mechanistic and empirical parameters and has thus been criticized for excluding a factor for agnoist-receptor activation via conformational change
+	* The __Hill Equation__ for biological responses is a combination of both mechanistic and empirical parameters and has thus been criticized for excluding a factor for agonist-receptor activation via conformational change
 	* More complex mechanism-based models have been developed 
 
 
