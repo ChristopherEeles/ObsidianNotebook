@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "cf22a3bcf73f1b7a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "References/@gesztelyiHillEquationOrigin2012.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
