@@ -6,14 +6,14 @@ Tags: [[Dose-Response]] [[Ligand-Binding]] [[Pharmacology]]
 
 # Hill Equation
 ## Hill-Langmuir Equation[^1]
-$$\LARGE [L_n R]=[R_0]· \ce{\frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}}$$
+$$\LARGE [L_n R]=[R_0]· \ce{\frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}}$$ ^5fd00d
 - Dervied from the law of mass action:
-$$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
+$$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$ ^7edd61
 - Where:
 	- $\ce{[L_nR]}$ is concentration of receptor-ligand complex
 	- $\ce{[L]}$ is total ligand concentration; $\ce{[R_0]}$ is total receptor concentration (significantly exceeded by $\ce{[L]}$)
 	- $\ce{k_1}$ and $\ce{k_2}$ are association and dissociation rates;
-	- $\ce{K_d}$ is equillibrium dissociation constant ($\ce{K_d = \frac{k_1}{k_2}}$); $\ce{K_A}$ is $\ce{[L]}$ for $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
+	- $\ce{K_d}$ is equillibrium dissociation constant ($\ce{K_d \equiv \frac{k_1}{k_2}}$); $\ce{K_A}$ is $\ce{[L]}$ producing $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
 	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity and other assumptions met)
 
 - Delineation from __Hill Equation__ which generally refers to the biological response case
@@ -62,3 +62,4 @@ $$\LARGE \ce{y = \frac{E_{min} + E_{max}(\frac{x}{m})^\lambda}{1 + (\frac{x}{m})
 
 [^1]: [[@gesztelyiHillEquationOrigin2012]]
 [^2]: [[@yadavSearchingDrugSynergy2015]]
+			[[^3]] [[@weissHillEquationRevisited1997]]

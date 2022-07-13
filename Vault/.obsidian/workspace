@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Hill Equation.md",
+            "file": "References/@weissHillEquationRevisited1997.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "right": {
     "id": "f224b15bb5c8ed15",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Hill Equation.md",
+                "file": "References/@weissHillEquationRevisited1997.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +100,15 @@
   },
   "active": "b2e1f6964520c808",
   "lastOpenFiles": [
-    "References/@gesztelyiHillEquationOrigin2012.md",
-    "Garden/Hill Equation.md",
-    "References/@huangPharmacometricsScienceQuantitative2007.md",
-    "Garden/Bliss Independence.md",
-    "References/@vanderborghtBIGLBiochemicallyIntuitive2017.md",
-    "References/@yadavSearchingDrugSynergy2015.md",
     "Garden/Zero Interaction Potency.md",
     "Garden/Loewe Additivity.md",
-    "Garden/Drug Combinations.md",
-    "Garden/Highest Single Agent.md"
+    "Garden/Hill Equation.md",
+    "References/@weissHillEquationRevisited1997.md",
+    "References/@yadavSearchingDrugSynergy2015.md",
+    "References/@gesztelyiHillEquationOrigin2012.md",
+    "References/@huangPharmacometricsScienceQuantitative2007.md",
+    "References/@vanderborghtBIGLBiochemicallyIntuitive2017.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Bliss Independence.md"
   ]
 }
