@@ -22,7 +22,7 @@ $$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n
 - Assumptions:
 	- Binding reaches equillibrium
 	- Free ligand concentration $\approx$ total ligand concentration
-	- All binding sites of a receptor are simultaneously occupied ($L_nR \propto [L]$) 
+	- All binding sites of a receptor are simultaneously occupied ($L_nR \propto [L]$; _i.e.,_ no intermediate forms) 
 - Caveats:
 	- If no positive cooperativity, $n$ underestimates binding sites and $K_d$ (or $K_A$) is overestimated
 	- If $n << 1$ or $n >> 1$  then $K_d$ (or $K_A$) should be treated with caution 
