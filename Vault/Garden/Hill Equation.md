@@ -6,23 +6,25 @@ Tags: [[Dose-Response]] [[Ligand-Binding]] [[Pharmacology]]
 
 # Hill Equation
 ## Hill-Langmuir Equation[^1]
-$$[L_n R]=[R_0]· \frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}$$
+$$[L_n R]=[R_0]· \ce{\frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}}$$
+- Dervied from the law of mass action:
+$$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 - Where:
-	- $[L_nR]$ is concentration of receptor-ligand complex
-	- $[L]$ is total ligand concentration; $[R_0]$ is total receptor concentration (in excess)
-	- $k_1$ and $k_2$ are association and dissociation rates;
-	- $K_d$ is equillibrium dissociation constant; $K_A$ is $[L]$ for $[L_nR]_{50}$ ($K_A = K_d~iff~n = 1$); 
+	- $\ce{[L_nR]}$ is concentration of receptor-ligand complex
+	- $\ce{[L]}$ is total ligand concentration; $\ce{[R_0]}$ is total receptor concentration (significantly exceeded by $\ce{[L]}$)
+	- $\ce{k_1}$ and $\ce{k_2}$ are association and dissociation rates;
+	- $\ce{K_d}$ is equillibrium dissociation constant; $\ce{K_A}$ is $\ce{[L]}$ for $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
 	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity)
 
 - Delineation from __Hill Equation__ which generally refers to the biological response case
 	- Dependent variable is \[ligand-receptor\] vs biological response (_i.e.,_ phenotype)
 - Good approximation of ligand-binding when binding is *specific* and *saturable*
 	- Specific: affinity between ligand and receptor is greater for eachother than other materials
-	- Saturable: excess of receptor can fully consume ligand such that additional $L$ has little effect on $[L_nR]$
+	- Saturable: excess of ligand can fully consume receptors such that additional $\ce{L}$ has little effect on $\ce{[L_nR]}$
 - Assumptions:
 	- Binding reaches equillibrium
 	- Free ligand concentration $\approx$ total ligand concentration
-	- All binding sites of a receptor are simultaneously occupied ($L_nR \propto [L]$; _i.e.,_ no intermediate forms) 
+	- All binding sites of a receptor are simultaneously occupied ($\ce{[L_nR] \propto [L]}$; _i.e.,_ no intermediate forms with partial occupancy) 
 - Caveats:
 	- If no positive cooperativity, $n$ underestimates binding sites and $K_d$ (or $K_A$) is overestimated
 	- If $n << 1$ or $n >> 1$  then $K_d$ (or $K_A$) should be treated with caution 
