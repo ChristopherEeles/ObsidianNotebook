@@ -21,10 +21,10 @@ The case where $n=1$ is generally considered for receptors with only a single bi
 
 ### Positive Cooperativity
 
-Binding of one ligand increases the probability of subsequent ligand binding to the receptor, $n \gt 1$. Satisfies  $\large K_{d_i} \gt K_{d_{(i + 1)}}$ for binding step in the reaction.
+Binding of one ligand increases the probability of subsequent ligand binding to the receptor, $n \gt 1$. Satisfies  $\large K_{d_i} \gt K_{d_{(i + 1)}}$ for each subsequent binding step in the reaction.
 
 ### Negative Cooperativity
-Binding of one ligand decreases the probability of subsequent ligand binding to the receptor, $n \lt 1$. Satisfies  $\large K_{d_i} \lt K_{d_{(i + 1)}}$ for binding step in the reaction.
+Binding of one ligand decreases the probability of subsequent ligand binding to the receptor, $n \lt 1$. Satisfies  $\large K_{d_i} \lt K_{d_{(i + 1)}}$ for each subsequent binding step in the reaction.
 
 ---
 # References

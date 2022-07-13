@@ -62,4 +62,4 @@ $$\LARGE \ce{y = \frac{E_{min} + E_{max}(\frac{x}{m})^\lambda}{1 + (\frac{x}{m})
 
 [^1]: [[@gesztelyiHillEquationOrigin2012]]
 [^2]: [[@yadavSearchingDrugSynergy2015]]
-			[[^3]] [[@weissHillEquationRevisited1997]]
+[^3]: [[@weissHillEquationRevisited1997]]
