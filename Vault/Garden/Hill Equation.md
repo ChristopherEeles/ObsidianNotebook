@@ -13,7 +13,7 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 	- $\ce{[L_nR]}$ is concentration of receptor-ligand complex
 	- $\ce{[L]}$ is total ligand concentration; $\ce{[R_0]}$ is total receptor concentration (significantly exceeded by $\ce{[L]}$)
 	- $\ce{k_1}$ and $\ce{k_2}$ are association and dissociation rates;
-	- $\ce{K_d}$ is equillibrium dissociation constant; $\ce{K_A}$ is $\ce{[L]}$ for $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
+	- $\ce{K_d}$ is equillibrium dissociation constant ($\ce{K_d = \frac{k_1}{k_2}}$); $\ce{K_A}$ is $\ce{[L]}$ for $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
 	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity and other assumptions met)
 
 - Delineation from __Hill Equation__ which generally refers to the biological response case
