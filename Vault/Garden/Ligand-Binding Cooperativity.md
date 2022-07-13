@@ -17,15 +17,14 @@ Consider the reactions:
 Where:
 * $K_d$ is the coefficient of dissociation for each reaction step ($K_d \equiv \frac{k_1}{k_2}$; where $k$ is the rate constant for one reaction direction)
 
-The case where $n=1$ is generally considered for receptors with only a single binding site, but would also be valid for the receptors with multiple binding sites which statsify $$
+The case where $n=1$ is generally considered for receptors with only a single binding site, but would also be valid for the receptors with multiple binding sites which statisify
 
 ### Positive Cooperativity
 
+Binding of one ligand increases the probability of subsequent ligand binding to the receptor, $n \gt 1$. Satisfies  $\large K_{d_i} \gt K_{d_{(i + 1)}}$ for binding step in the reaction.
 
-
-#### Negative Cooperativity
-
-
+### Negative Cooperativity
+Binding of one ligand decreases the probability of subsequent ligand binding to the receptor, $n \lt 1$. Satisfies  $\large K_{d_i} \lt K_{d_{(i + 1)}}$ for binding step in the reaction.
 
 ---
 # References
