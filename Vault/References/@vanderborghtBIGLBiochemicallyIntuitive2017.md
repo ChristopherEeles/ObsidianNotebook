@@ -4,3 +4,7 @@ authors: Koen Van der Borght, Annelies Tourny, Rytis Bagdziunas, Olivier Thas, M
 year: 2017
 ---
 
+## BIGL: Biochemically Intuitive Generalized Loewe null model for prediction of the expected combined effect compatible with partial agonism and antagonism
+
+https://www.nature.com/articles/s41598-017-18068-5
+
