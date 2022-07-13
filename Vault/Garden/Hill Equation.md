@@ -6,7 +6,7 @@ Tags: [[Dose-Response]] [[Ligand-Binding]] [[Pharmacology]]
 
 # Hill Equation
 ## Hill-Langmuir Equation[^1]
-$$[L_n R]=[R_0]· \ce{\frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}}$$
+$$\LARGE [L_n R]=[R_0]· \ce{\frac{[L]^n}{[L]^n + Kd} =[R_0]· \frac{[L]^n}{[L]^n + (K_A)^n} \tag{Hill-1}}$$
 - Dervied from the law of mass action:
 $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 - Where:
@@ -14,7 +14,7 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 	- $\ce{[L]}$ is total ligand concentration; $\ce{[R_0]}$ is total receptor concentration (significantly exceeded by $\ce{[L]}$)
 	- $\ce{k_1}$ and $\ce{k_2}$ are association and dissociation rates;
 	- $\ce{K_d}$ is equillibrium dissociation constant; $\ce{K_A}$ is $\ce{[L]}$ for $\ce{[L_nR]_{50}}$ ($\ce{K_A = K_d \iff n = 1}$); 
-	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity)
+	- $n$ is the Hill coefficient ($\approx$ binding sites of receptor if positive cooperativity and other assumptions met)
 
 - Delineation from __Hill Equation__ which generally refers to the biological response case
 	- Dependent variable is \[ligand-receptor\] vs biological response (_i.e.,_ phenotype)
@@ -27,7 +27,7 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 	- All binding sites of a receptor are simultaneously occupied ($\ce{[L_nR] \propto [L]}$; _i.e.,_ no intermediate forms with partial occupancy) 
 - Caveats:
 	- If no positive cooperativity, $n$ underestimates binding sites and $K_d$ (or $K_A$) is overestimated
-	- If $n << 1$ or $n >> 1$  then $K_d$ (or $K_A$) should be treated with caution 
+	- If $n << 1$ or $n >> 1$  then $K_d$ (or $K_A$) should be treated with caution (_i.e.,_ not interpreted physio-chemically)
 	- Thus physico-chemical interpretation is only valid if above conditions are met
 
 ## Hill Equation[^1]
@@ -45,12 +45,12 @@ $$\LARGE \ce{nL + R <=>[k_1][k_2] L_nR} \tag{Hill-2}$$
 
 ## Four Parameter Hill Equation[^2]
 The most complete form of the Hill equation for stimuli-response curves has four parameters:
-$$y = \frac{E_{min} + E_{max}(\frac{x}{m})^\lambda}{1 + (\frac{x}{m})^\lambda} \tag{Hill-3}$$ ^70470f
+$$\LARGE \ce{y = \frac{E_{min} + E_{max}(\frac{x}{m})^\lambda}{1 + (\frac{x}{m})^\lambda}} \tag{Hill-3}$$ ^70470f
 - Where:
-	- $x$ is the dose of the stimuli
-	- $E_{min}, E_{max}$ are the minimal and maximal response
-	- $m$ is the does required to produce response $\frac{E_{min} + E_{max}}{2}$ (_i.e._, $EC50$) 
-	- $\lambda$ is the Hill slope describing the sigmoidicity of the stimuli-response curve. ^2860a8
+	- $\ce{x}$ is the dose of the stimuli
+	- $\ce{E_{min}, E_{max}}$ are the minimal and maximal response
+	- $\ce{m}$ is the does required to produce response $\large \ce{\frac{E_{min} + E_{max}}{2}}$ (_i.e._, $\ce{EC50}$) 
+	- $\ce{\lambda}$ is the Hill slope describing the sigmoidicity of the stimuli-response curve ^2860a8
 
 
 
