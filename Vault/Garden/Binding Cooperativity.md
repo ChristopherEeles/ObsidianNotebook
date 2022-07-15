@@ -16,7 +16,7 @@ Consider the reactions:
 Where:
 * $K_d$ is the coefficient of dissociation for each reaction step ($K_d \equiv \frac{k_1}{k_2}$; where $k$ is the rate constant for one reaction direction)
 
-The case where $n=1$ is generally considered for receptors with only a single binding site, but would also be valid for the receptors with multiple binding sites which statisify
+The case where $n=1$ is generally considered for receptors with only a single binding site, but would also be valid for the receptors with multiple binding sites which statisify $\large K_{d_i} = K_{d_{(i + 1)}}$ for all steps in the reaction.
 
 ### Positive Cooperativity
 
