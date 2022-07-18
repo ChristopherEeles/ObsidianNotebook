@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Pharmacology]] [[Quantitative Pharmacology]]
 
 # Operational Model of Agonism
 
