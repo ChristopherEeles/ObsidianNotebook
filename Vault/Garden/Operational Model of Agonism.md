@@ -15,7 +15,7 @@ Tags: [[Pharmacology]] [[Quantitative Pharmacology]]
 	- Agonists bind receptors acording to the law of mass action
 	- System is at equillibrium
 	- $\ce{[A] >> [R_T]}$; the agonist is in excess of the receptor
-$$\LARGE \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
+$$\large \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 - Where:
 	- $\ce{[R_T]}$ is total receptor concentration
 	- $\ce{K_A}$ is the agonist-receptor equillibrium dissociation constant
@@ -25,8 +25,13 @@ $$\LARGE \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 
 ### Black Box Problem[^2]
 - Relationship between concentration of activated receptor and biological effect is unknown (a black box)
-$$\LARGE \ce{E = z([AR]) = z\left(\frac{[R_T][A]}{K_A + [A]}\right)}$$
-- Where $\ce{z}$ is some monotonic function relating receptor concentration to observed biological effect (_i.e.,_ phenotype)
+$$\large \ce{E =} z\ce{([AR]) = }z\ce{\left(\frac{[R_T][A]}{K_A + [A]}\right)} \tag{OMA-2}$$
+- Where $\large z$ is some monotonic function relating receptor concentration to observed biological effect (_i.e.,_ phenotype)
+
+### Non-Hyperbolic $\ce{\frac{E}{[A]}}$ Curves[^2]
+$$\large \ce{E = \frac{E_m[AR]^n}{K^n_E + [AR]^n} = \frac{E_m[R_T]^n[A]^n}{K^n_E(K_A + [A])^n + [R_T]^n[A]^n}} \tag{OMA-3}$$
+- Where:
+	- $E_m$ is the maximal effect possible for a given agonist in the specific tissue
 
 ---
 # References
