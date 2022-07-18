@@ -24,3 +24,4 @@ $$ \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 ---
 # References
 1. [[@motulskyFittingModelsBiological2004]]
+2. [[@blackOperationalModelsPharmacological1983]]
