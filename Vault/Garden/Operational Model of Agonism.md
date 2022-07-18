@@ -25,7 +25,6 @@ $$ \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 - Relationship between concentration of activated receptor and biological effect is unknown (a black box)
 $$\large \ce{E = z([AR]) = z\left(\frac{[R_T][A]}{K_A + [A]}\right)}$$
 - Where $\ce{z}$ is some monotonic function relating receptor concentration to observed biological effect (_i.e.,_ phenotype)
-	- Must fit the observed $\ce{}$
 
 ---
 # References
