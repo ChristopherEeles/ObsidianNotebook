@@ -29,9 +29,9 @@ $$\large \ce{E =} z\ce{([AR]) = }z\ce{\left(\frac{[R_T][A]}{K_A + [A]}\right)} \
 - Where $\large z$ is some monotonic function relating receptor concentration to observed biological effect (_i.e.,_ phenotype)
 
 ### Non-Hyperbolic $\ce{\frac{E}{[A]}}$ Curves[^2]
-$$\large \ce{E = \frac{E_m[AR]^n}{K^n_E + [AR]^n} = \frac{E_m[R_T]^n[A]^n}{K^n_E(K_A + [A])^n + [R_T]^n[A]^n}} \tag{OMA-3}$$
+$$\large \ce{E} = \frac{\ce{E_m[AR]}^n}{\ce{K}^n_E + \ce{[AR]}^n} = \frac{\ce{E_m[R_T]}^n\ce{[A]}^n}{\ce{K}^n_E(\ce{K_A} + \ce{[A]})^n + \ce{[R_T]}^n\ce{[A]}^n} \tag{OMA-3}$$
 - Where:
-	- $E_m$ is the maximal effect possible for a given agonist in the specific tissue
+	- $\ce{E_m}$ is the maximal effect possible for a given agonist in the specific tissue
 
 ---
 # References
