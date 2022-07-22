@@ -59,7 +59,6 @@ $\LARGE y_2 = \frac{1}{1 + (\frac{m_2}{x_2})^{\lambda_2}}$ comes from (A1) of [1
 For the fully parameterized Hill equation, this becomes:
 $$\LARGE y_{1\leftarrow2} = \frac{E_{min}^1 + y_2 + E_{max}^1(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}} = \frac{\frac{1}{1 + (\frac{m_2}{x_2})^{\lambda_2}} + (\frac{x_1}{m_1})^{\lambda_1}}{1 + (\frac{x_1}{m_1})^{\lambda_1}} \tag{ZIP-6}$$
 
-
 ### Viability Case
 
 
