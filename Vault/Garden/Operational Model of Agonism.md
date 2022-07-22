@@ -27,6 +27,7 @@ $$\large \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 - Relationship between concentration of activated receptor and biological effect is unknown (a black box)
 $$\large \ce{E =} z\ce{([AR]) = }z\ce{\left(\frac{[R_T][A]}{K_A + [A]}\right)} \tag{OMA-2}$$
 - Where $\large z$ is some monotonic function relating receptor concentration to observed biological effect (_i.e.,_ phenotype)
+- Black and Leff provide theoretical and experimental results which indicate z is either linear or hyperbolic; both cases result in an overall hyperbolic relationship between $\ce{[A]}$ and $\ce{E}$.
 
 ### Non-Hyperbolic $\ce{\frac{E}{[A]}}$ Curves[^2]
 $$\large \ce{E} = \frac{\ce{E_m[AR]}^n}{\ce{K}^n_E + \ce{[AR]}^n} = \frac{\ce{E_m[R_T]}^n\ce{[A]}^n}{\ce{K}^n_E(\ce{K_A} + \ce{[A]})^n + \ce{[R_T]}^n\ce{[A]}^n} \tag{OMA-3}$$
