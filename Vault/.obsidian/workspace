@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Work/DeepCINET.md",
+            "file": "Garden/Wald Test.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#statistics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/DeepCINET.md",
+                "file": "Garden/Wald Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "b7df5fb4e274054e",
   "lastOpenFiles": [
-    "Work/BioC2022/Spatial Genomics Track Short Talks.md",
-    "Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
-    "Work/Sklearn Estimators.md",
-    "Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
-    "Work/BioC2022/Single Cell Transcriptomics Keynote.md",
-    "Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md",
-    "Work/BioC2022/Analyzing cellular heterogeneity across time and across biomedical conditions or interventions.md",
     "Garden/Operational Model of Agonism.md",
-    "Garden/Zero Interaction Potency.md",
-    "Garden/Zero Interaction Potency-EELESPC-BHKLAB.md"
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Bliss Independence.md",
+    "Garden/Binding Mechanisms.md",
+    "Garden/Binding Cooperativity.md",
+    "Notes/Work/DeepCINET.md",
+    "Notes/Work/Joanna LMS Metaclustering.md"
   ]
 }

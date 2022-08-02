@@ -12,7 +12,7 @@ Tags: [[Pharmacology]] [[Ligand-Receptor]] [[Ligand-Binding]]
 For receptors with multiple binding sites, binding follows a sequential mechanism if the sites must be occupied by ligands in order. One potential explanation for this requirement is that conformational changes in the receptor geomeometry caused by the first ligand binding are required to expose the next binding site.
 
 ## Independent
-For receptors with multiple binding sites, binding follows and independent mechanism if the order of ligand binding to a receptor is not enforced.
+For receptors with multiple binding sites, binding follows an independent mechanism if the order of ligand binding to a receptor is not enforced.
 
 
 
