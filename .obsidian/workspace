@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0788ba51aa7efdb5",
+        "id": "cffe103063ddfdcc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Garden/Zero Interaction Potency.md",
-            "mode": "preview"
+            "file": "Vault/Work/BioC2022/Untitled.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -52,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.0083885192871
+    "width": 340.5083885192871
   },
   "right": {
     "id": "3e636f0eb7b5f63d",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Garden/Zero Interaction Potency.md",
+                "file": "Vault/Work/BioC2022/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0788ba51aa7efdb5",
+  "active": "cffe103063ddfdcc",
   "lastOpenFiles": [
-    "Vault/Garden/Zero Interaction Potency.md",
-    "Vault/Garden/Loewe Additivity.md",
+    "Vault/Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md",
+    "Vault/Work/BioC2022/Untitled.md",
+    "Vault/Garden/Binding Cooperativity.md",
+    "Vault/Work/BioC2022/Spatial Genomics Track Short Talks.md",
     "Vault/Garden/Hill Equation.md",
-    "Vault/Garden/Highest Single Agent.md",
-    "Bliss Independence^.md",
-    "Vault/Garden/Drug Combinations.md",
-    "Vault/Garden/Bliss Independence.md"
+    "Vault/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
+    "Vault/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
+    "Vault/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
+    "Vault/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
+    "Vault/Garden/Zero Interaction Potency.md"
   ]
 }
