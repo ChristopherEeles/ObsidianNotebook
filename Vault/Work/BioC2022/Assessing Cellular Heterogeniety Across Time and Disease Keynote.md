@@ -7,8 +7,7 @@
 	* Also have the highest baseline level of inflammation; helps defend against pathogens but can results in over reaction
 * Studying endothelial heterogeniety following inflammatory injury with LPS via scRNA-Seq
 * Subpopulation of inflammatory and developmentally primed endothelial cells
-	* See third subpopulation associated with proliferation develops days after injurt
-		* Likely arise from developmentally primed endothelial cells
+	* See third subpopulation associated with proliferation develops days after injury
 	* Interested indetermining what TFs drive the shift in subpopulations
 * Bayesian Inference Transcription Factor Activity Model for Analysis of Single Cell Transcriptomes (BITFAM)
 	* Input ChIP-Seq data with normalized scRNA-seq

@@ -1,4 +1,4 @@
-### Analyzing cellular heterogeneity acrross time and across biomedical conditions or interventiosn
+### Analyzing cellular heterogeneity across time and across biomedical conditions or interventions
 * Xinge Wang
 
 * Transcription factor is highly correlated with protein expression

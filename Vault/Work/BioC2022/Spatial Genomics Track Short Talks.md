@@ -6,13 +6,13 @@
 	* Not possible for larger datasets or in cases where we have no prexisting knowledge
 * Unsupervised approaches are needed
 	* Spatially aware clustering algorithms
-		* BayesSpace: spatial coordinates of spots as prior; encourages spots close together to cluster together (clusterr across)
+		* BayesSpace: spatial coordinates of spots as prior; encourages spots close together to cluster together (cluster across)
 		* SpaGCN: uses histology image of tissue to determine "metagenes"
 * Identify the differentially expressed genes in each manually annotated tissue section and correlate with the unsupervised clusters
 	* Performance was reasonable
 	* K-selection?
 
-### nnSVG: scalable identification of spatially varibale genes using nearest-neighbor Gaussian processes
+### nnSVG: scalable identification of spatially variable genes using nearest-neighbor Gaussian processes
 * Lukas Weber at Johns Hoptkins School of Public Health
 * SVG: spatially variable genes
 * Visium platform: more than one cell per spot
