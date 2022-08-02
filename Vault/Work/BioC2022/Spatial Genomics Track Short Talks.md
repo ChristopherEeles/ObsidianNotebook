@@ -1,6 +1,6 @@
 ## BioC2022
 
-### Unsupervised spatial transcriptiomics analysis defnes molecular anatomy of the human dorsolateral prefrontal cortex
+### Unsupervised spatial transcriptiomics analysis defines molecular anatomy of the human dorsolateral prefrontal cortex
 * Molecular anatomy of tissue samples
 * Use known microanatomy of the DLPFC (6 layers of grey + 1 of white) as ground truth for cell labels
 	* Not possible for larger datasets or in cases where we have no prexisting knowledge
