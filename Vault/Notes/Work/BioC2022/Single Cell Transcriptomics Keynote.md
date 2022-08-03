@@ -39,7 +39,7 @@
 
 #### Normalization
 * Adjust read counts for gene-level (e.g., length, GC-content) and sample-level (e.g., sequencing depth, batch, QC) unwanted technical effects
-* The choice of normalization method can have a greater impact on the results (Bullard et tal. 2010)
+* The choice of normalization method can have a greater impact on the results (Bullard et al. 2010)
 	* Correct method selection is dataset specific an non-trivial
 * `scone` useful package implementing a range of state of the art normalization methods (for read counts?)
 * Benchmarked 172 normalization procedures via `scone`: best methods were full quantile normalization and regression on principal components of QC measures
