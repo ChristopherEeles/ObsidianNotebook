@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Work/BioC2022/Untitled.md",
+            "file": "Vault/Notes/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5083885192871
+    "width": 305.5083885192871
   },
   "right": {
     "id": "3e636f0eb7b5f63d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Work/BioC2022/Untitled.md",
+                "file": "Vault/Notes/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "cffe103063ddfdcc",
   "lastOpenFiles": [
+    "Vault/Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
+    "Vault/Notes/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
+    "Vault/Notes/Work/BioC2022/Spatial Genomics Track Short Talks.md",
+    "Vault/Notes/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
+    "Vault/Notes/Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md",
+    "Vault/Notes/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
     "Vault/Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md",
     "Vault/Work/BioC2022/Untitled.md",
     "Vault/Garden/Binding Cooperativity.md",
-    "Vault/Work/BioC2022/Spatial Genomics Track Short Talks.md",
-    "Vault/Garden/Hill Equation.md",
-    "Vault/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
-    "Vault/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
-    "Vault/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
-    "Vault/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
-    "Vault/Garden/Zero Interaction Potency.md"
+    "Vault/Work/BioC2022/Spatial Genomics Track Short Talks.md"
   ]
 }
