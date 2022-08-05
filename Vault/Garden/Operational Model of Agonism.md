@@ -21,7 +21,7 @@ $$\large \ce{[AR] = \frac{[R_T][A]}{[A] + K_A}} \tag{OMA-1}$$
 	- $\ce{K_A}$ is the agonist-receptor equillibrium dissociation constant
 
 - What is the relationship between $\ce{[AR]}$ and response?
-	- Don't always know the biochemical details (_.e.g,_ mechanism unknown)
+	- Don't always know the biochemical details (_e.g.,_ mechanism unknown)
 
 ### Black Box Problem[^2]
 - Relationship between concentration of activated receptor and biological effect is unknown (a black box)
