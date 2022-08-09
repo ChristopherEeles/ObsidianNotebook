@@ -11,8 +11,8 @@ Tags: [[Math]] [[Set Theory]] [[Functions]]
 	- Let $A = \{(1,2), (2,4), (3, 6)\}$
 	- Let $B = \{(1,2), (1,3),(2,4)\}$
 	- Let $X = \{(x_1, y_1), (x_2, y_2), ..., (x_n, y_n)\}$
-- The **domain** of a *relation* is the set of all possible $x$ values in a relation (independent variable)
-* The **range** of a *reliation* is the set of all possible $y$ values in a realtion (dependent variable)
+- The **domain** of a *relation* is the set of all possible $x$ values (independent variable)
+* The **range** of a *relation* is the set of all possible $y$ values  (dependent variable)
 ![[Pasted image 20220809131621.png]]
 
 ## Functions
@@ -23,7 +23,8 @@ Tags: [[Math]] [[Set Theory]] [[Functions]]
 - Graphically, we can test if a *relation* is a *function* using the **vertical line test**: ![[Pasted image 20220809130824.png]]
 
 ### Function Notation
-* A function is a machine that takes input from the *domain* and performs some operation to output a value in the *range*
+* A function is a machine that takes input from the *domain* and performs some operation to output a value in the *range*:
+	* $y = f(x)$
 
 
 # References

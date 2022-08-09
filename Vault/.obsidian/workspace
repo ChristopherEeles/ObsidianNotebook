@@ -7,12 +7,8 @@
         "id": "1802d354267d9b30",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Garden/Functions and Relations.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Functions and Relations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +93,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c7705007096e45d",
+  "active": "1802d354267d9b30",
   "lastOpenFiles": [
-    "References/@CEMCOpenCourseware.md",
     "Garden/Functions and Relations.md",
+    "References/@CEMCOpenCourseware.md",
     "Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
     "Notes/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
     "Notes/Work/BioC2022/Spatial Genomics Track Short Talks.md",
