@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Zero Interaction Potency.md",
+            "file": "Garden/Functions and Relation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Zero Interaction Potency.md",
+                "file": "Garden/Functions and Relation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,8 +100,8 @@
   },
   "active": "1802d354267d9b30",
   "lastOpenFiles": [
-    "Garden/Operational Model of Agonism.md",
-    "Garden/Hill Equation.md",
+    "References/@CEMCOpenCourseware.md",
+    "Garden/Functions and Relation.md",
     "Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
     "Notes/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
     "Notes/Work/BioC2022/Spatial Genomics Track Short Talks.md",
