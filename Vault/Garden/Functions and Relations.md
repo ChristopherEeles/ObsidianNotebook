@@ -14,15 +14,16 @@ Tags: [[Math]] [[Set Theory]] [[Functions]]
 - The **domain** of a *relation* is the set of all possible $x$ values in a relation (independent variable)
 * The **range** of a *reliation* is the set of all possible $y$ values in a realtion (dependent variable)
 ![[Pasted image 20220809131621.png]]
+
 ## Functions
 - A **function** is a *relation* in which for every value of $x$ there is only one value of $y$
-	- Each element of the *domain* corresponds to one elemnt in the *range*
+	- Each element of the *domain* corresponds to one element in the *range*
 	- Therefore $A$ is a function, but $B$ is <u>not</u> a function
 - This can be conceptualized via a **mapping diagram**: ![[Pasted image 20220809130433.png]]
-- Graphically, we can test if a *relation* is a *function* using the **vertical line test**:
-	- If all possible vertical lines on the graph intersect only one point, then that relation is a function: ![[Pasted image 20220809130824.png]]
+- Graphically, we can test if a *relation* is a *function* using the **vertical line test**: ![[Pasted image 20220809130824.png]]
 
-
+### Function Notation
+* A function is a machine that takes input from the *domain* and performs some operation to output a value in the *range*
 
 
 # References
