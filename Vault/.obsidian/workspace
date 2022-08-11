@@ -7,8 +7,12 @@
         "id": "1802d354267d9b30",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "References/@neufeldInferenceLatentVariable2022.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "References/@neufeldInferenceLatentVariable2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +100,7 @@
   },
   "active": "1802d354267d9b30",
   "lastOpenFiles": [
+    "Garden/Double Dipping.md",
     "Garden/Functions and Relations.md",
     "References/@CEMCOpenCourseware.md",
     "Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
@@ -103,7 +109,6 @@
     "Notes/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
     "Notes/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
     "Notes/Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md",
-    "Notes/Work/BioC2022/Analyzing cellular heterogeneity across time and across biomedical conditions or interventions.md",
-    "Garden/Wald Test.md"
+    "Notes/Work/BioC2022/Analyzing cellular heterogeneity across time and across biomedical conditions or interventions.md"
   ]
 }
