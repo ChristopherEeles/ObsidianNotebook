@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1802d354267d9b30",
+        "id": "4c10a5f14ac08b14",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Functions and Relations.md",
+            "file": "Garden/Log2-Ratio.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Functions and Relations.md",
+                "file": "Garden/Log2-Ratio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1802d354267d9b30",
+  "active": "4c10a5f14ac08b14",
   "lastOpenFiles": [
-    "Garden/Drug Combinations.md",
+    "Garden/Log2-Ratio.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Functions and Relations.md",
     "Garden/Double Dipping.md",
     "Garden/Bliss Independence.md",
-    "References/@gesztelyiHillEquationOrigin2012.md",
-    "References/@CEMCOpenCourseware.md",
-    "Garden/Operational Model of Agonism.md",
-    "Garden/Binding Cooperativity.md",
-    "Garden/Zero Interaction Potency.md",
-    "Garden/Hill Equation.md",
-    "Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md"
+    "Garden/Drug Combinations.md",
+    "References/@peifferHighresolutionGenomicProfiling2006.md",
+    "References/@gesztelyiHillEquationOrigin2012.md"
   ]
 }
