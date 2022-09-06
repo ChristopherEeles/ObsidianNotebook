@@ -11,7 +11,7 @@ Tags: [[Bioinformatics]] [[Microarray]] [[Comparative Genomic Hybridization]] [[
 - Two major methods to compute:
 	- Single sample: intensity ratio via canonical genotype clusters from reference samples
 	- Paired-sample: intensity ratio vs normal tissue from same sample
-- $\large R=\frac{R_{observed}}{R_{expected}}$ where $R_{x}$ is the observed intensity for each condition
+- $\large \log_2R=\log_2(\frac{R_{observed}}{R_{expected}})$ where $R_{x}$ is the observed intensity for each condition
 
 ---
 # References

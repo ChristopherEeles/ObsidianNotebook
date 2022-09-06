@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Log2-Ratio.md",
+            "file": "Garden/Comparative Genomic Hybridization.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Log2-Ratio.md",
+                "file": "Garden/Comparative Genomic Hybridization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   "active": "4c10a5f14ac08b14",
   "lastOpenFiles": [
     "Garden/Log2-Ratio.md",
+    "Garden/Comparative Genomic Hybridization.md",
     "Garden/Loewe Additivity.md",
     "Garden/Hill Equation.md",
     "Garden/Highest Single Agent.md",
@@ -108,7 +109,6 @@
     "Garden/Double Dipping.md",
     "Garden/Bliss Independence.md",
     "Garden/Drug Combinations.md",
-    "References/@peifferHighresolutionGenomicProfiling2006.md",
-    "References/@gesztelyiHillEquationOrigin2012.md"
+    "References/@peifferHighresolutionGenomicProfiling2006.md"
   ]
 }
