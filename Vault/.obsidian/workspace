@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f23a90a9e8f8412c",
+        "id": "47e86ecc98bd0e81",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Garden/Perceptron.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f23a90a9e8f8412c",
+  "active": "47e86ecc98bd0e81",
   "lastOpenFiles": [
-    "Garden/Perceptron.md",
-    "Garden/Threshold Logical Unit.md",
     "Garden/Step Functions.md",
-    "Garden/Untitled.md",
-    "Garden/Deep Learing.md",
-    "Notes/Deep Learning/Artifical Neural Netoworks with Keras.md",
-    "Garden/Introduction to Artifical Neural Networks.md",
-    "Garden/Untitled 1.md",
-    "Garden/Comparative Genomic Hybridization.md",
-    "Garden/Log2-Ratio.md"
+    "Garden/Perceptron.md",
+    "Garden/Artifical Intelligence.md",
+    "Garden/Operational Model of Agonism.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Functions and Relations.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Comparative Genomic Hybridization.md"
   ]
 }
