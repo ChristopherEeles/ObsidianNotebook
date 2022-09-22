@@ -14,10 +14,13 @@ Where:
 * $\boldsymbol{X}$ is the matrix of input features with one row per instance and one column per feature
 * $\boldsymbol{W}$ is the matrix of all connection weights except the bias neuron
 * $\boldsymbol{b}$ contains all the connection wieghts between the bias neuron and the articial neuron, with one bias term per neuron
-* $\phi$ is the activation function
+* $\phi$ is the activation function, which converts the continuous output of the neural network into a state for each neuron
 ![[Pasted image 20220921221935.png]]
 
-
+### Perceptron Learning
+$$\large
+w_{i,j}^{n+1} = w_{i,j} + n
+$$
 ---
 # References
 1. [[@geronHandsOnMachineLearning]]: Chapter 10.
