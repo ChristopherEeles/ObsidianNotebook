@@ -35,7 +35,11 @@ $$
 * Due to a linear activation function, Single Layer Perceptrons are incapable of learning complex (i.e., non-linear) patterns
 	* Similar to Logistic Regression but outputting a hard prediction rather than a class probability
 		* May be a reason to prefer Logistic Regression of SLP
-* 
+* Minsky and Papert (1969) showed that linear classifiers (including SLP) are incapable of solving some trivial probles such as *Exclusive OR* (XOR) classificaitons
+	* This finding lead to the first AI winter
+
+## Multilayer Perceptron (MLP)
+* MLPs overcome the XOR classification issue
 ---
 # References
 1. [[@geronHandsOnMachineLearning]]: Chapter 10
