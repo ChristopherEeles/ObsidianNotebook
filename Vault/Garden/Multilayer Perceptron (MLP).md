@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Artificial Intelligence]] [[Deep Learnig]] [[Neural Networks]] [[Threshold Logical Unit]] [[Single Layer Perceptron (SLP)]]
+Tags: [[Artificial Intelligence]] [[Deep Learnig]] [[Neural Networks]] [[Threshold Logical Unit]] [[Single Layer Perceptron (SLP)]] [[Deep Learning]]
 
 # Multilayer Perceptron
 

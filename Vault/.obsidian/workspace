@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4d22ff268feaedbf",
+        "id": "dda5870b79d24f69",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Activation Functions.md",
+            "file": "Garden/Backpropagation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Activation Functions.md",
+                "file": "Garden/Backpropagation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c7705007096e45d",
+  "active": "dda5870b79d24f69",
   "lastOpenFiles": [
-    "Garden/Loss Functions.md",
-    "Garden/Activation Functions.md",
-    "Garden/Single Layer Perceptron (SLP).md",
-    "Garden/Multilayer Perceptron (MLP).md",
-    "Garden/Loewe Additivity.md",
-    "Garden/Operational Model of Agonism.md",
     "Garden/Threshold Logical Unit.md",
-    "Garden/Hebbian Learning.md",
-    "Notes/Deep Learning/Artifical Neural Netoworks with Keras.md",
-    "Garden/Functions and Relations.md"
+    "Garden/Single Layer Perceptron (SLP).md",
+    "Garden/Loss Functions.md",
+    "Garden/Log2-Ratio.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Functions and Relations.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Double Dipping.md"
   ]
 }
