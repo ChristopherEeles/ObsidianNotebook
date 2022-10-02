@@ -9,7 +9,7 @@ Tags: [[Deep Learning]] [[Neural Networks]] [[Artifical Intelligence]] [[Activat
 * Computes the weighted sum of its input $\large TLU=step(z)$ where:
 	* $\large z = \sum_\limits{i=1}^n w_i x_i = \boldsymbol{x}^T\boldsymbol{w}$
 	* $step(z)$ is the step function, a special case of activation functions used in TLUs
-* Basic component of a [[Perceptron]]
+* Basic component of a [[Single Layer Perceptron (SLP)]]
 
 ![[Pasted image 20220921215347.png]]
 

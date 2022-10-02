@@ -7,7 +7,7 @@ Tags: [[Machine Learning]] [[Artificial Intelligence]] [[Deep Learning]]
 # Activation Functions
 
 ## Step Functions
-* Applied to a neural network output to determine the state of the artifical neural circuit, common in [[Perceptron]]s
+* Applied to a neural network output to determine the state of the artifical neural circuit, common in [[Single Layer Perceptron (SLP)]]s
 
 ## Heaviside Function
 $$ \large
