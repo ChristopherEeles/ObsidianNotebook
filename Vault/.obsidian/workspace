@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2ab6cdf6e6814280",
+        "id": "4d22ff268feaedbf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Deep Learning/Artifical Neural Netoworks with Keras.md",
+            "file": "Garden/Perceptron.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Deep Learning/Artifical Neural Netoworks with Keras.md",
+                "file": "Garden/Perceptron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2ab6cdf6e6814280",
+  "active": "4d22ff268feaedbf",
   "lastOpenFiles": [
+    "Garden/Threshold Logical Unit.md",
+    "Garden/Hebbian Learning.md",
+    "Garden/Perceptron.md",
+    "Garden/Activation Functions.md",
+    "Notes/Deep Learning/Artifical Neural Netoworks with Keras.md",
     "Garden/Functions and Relations.md",
     "Garden/Drug Combinations.md",
     "Garden/Double Dipping.md",
-    "Garden/Threshold Logical Unit.md",
-    "Garden/Step Functions.md",
-    "Garden/Perceptron.md",
     "Garden/Wald Test.md",
-    "Garden/Untitled.md",
-    "Garden/Allele Specific Copy Number.md",
-    "Garden/Hill Equation.md"
+    "Garden/Allele Specific Copy Number.md"
   ]
 }

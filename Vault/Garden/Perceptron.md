@@ -18,9 +18,16 @@ Where:
 ![[Pasted image 20220921221935.png]]
 
 ### Perceptron Learning
-$$\large
-w_{i,j}^{n+1} = w_{i,j} + n
+* Applies Hebbian Learning, inspired by the Hebb Rule: "neurons that fire togther, wire togther"
+$$\LARGE
+w_{i,j}^{\mbox{\small (next step)}} = w_{i,j} + η(y_i - \hat y_j)x_i
 $$
+Where:
+* $w_{i,j}$ is the connection weight betwen the $i^{th}$ input neuron on the $j^{th}$ output neuron
+* $x_i$ is the $i^{th}$ input value of the current training instance
+* $\hat y_j$ is the output of the $j^{th}$ output neuron for the curren training instance
+* $y_i$ is the target output for the $j^{th}$ output neuron for the curren training instance
+* $η$ is the learning rate
 ---
 # References
 1. [[@geronHandsOnMachineLearning]]: Chapter 10.

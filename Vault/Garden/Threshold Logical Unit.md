@@ -2,13 +2,13 @@
 
 Status: #idea
 
-Tags: [[Deep Learning]] [[Neural Networks]] [[Artifical Intelligence]] [[Step Functions]]
+Tags: [[Deep Learning]] [[Neural Networks]] [[Artifical Intelligence]] [[Activation Functions]]
 
 # Threshold Logical Unit
 * Frank Rosenblatt invented in 1957
 * Computes the weighted sum of its input $\large TLU=step(z)$ where:
 	* $\large z = \sum_\limits{i=1}^n w_i x_i = \boldsymbol{x}^T\boldsymbol{w}$
-	* $step(z)$ is the step function
+	* $step(z)$ is the step function, a special case of activation functions used in TLUs
 * Basic component of a [[Perceptron]]
 
 ![[Pasted image 20220921215347.png]]

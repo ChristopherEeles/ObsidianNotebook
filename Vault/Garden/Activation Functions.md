@@ -4,7 +4,9 @@ Status: #idea
 
 Tags: [[Machine Learning]] [[Artificial Intelligence]] [[Deep Learning]]
 
-# Step Functions
+# Activation Functions
+
+## Step Functions
 * Applied to a neural network output to determine the state of the artifical neural circuit, common in [[Perceptron]]s
 
 ## Heaviside Function
