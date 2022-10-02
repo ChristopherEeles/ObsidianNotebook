@@ -40,6 +40,25 @@ $$
 
 ## Multilayer Perceptron (MLP)
 * MLPs overcome the XOR classification issue
+![[Pasted image 20221002151903.png]]
+$$
+\begin{aligned}
+	\mbox{Let } L1.1 := heaviside(x_1 + x_2 - 1.5) = y_1 \\
+	\mbox{Let } L1.2 := heaviside(x_1 + x_2 - 0.5) = y_2\\
+	\mbox{Let } L2 := heaviside(-y_1 + y_2 - 0.5)= y_3 \\
+\end{aligned}
+$$
+$$
+\begin{aligned}
+\mbox{Let } x_1=1,x_2=0 \\
+y_1 = heaviside(1 + 0 -1.5) = 0 \\
+y_2 = heaviside(1 + 0 - 0.5) = 1 \\
+y_2 = heaviside(-0 + 1 - 0.5) = 1
+\end{aligned}
+$$
+
+
+
 ---
 # References
 1. [[@geronHandsOnMachineLearning]]: Chapter 10
