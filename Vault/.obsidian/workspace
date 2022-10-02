@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Garden/Loss Functions.md",
+            "file": "Garden/Activation Functions.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Loss Functions.md",
+                "file": "Garden/Activation Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,10 +98,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d22ff268feaedbf",
+  "active": "2c7705007096e45d",
   "lastOpenFiles": [
-    "Garden/Activation Functions.md",
     "Garden/Loss Functions.md",
+    "Garden/Activation Functions.md",
     "Garden/Single Layer Perceptron (SLP).md",
     "Garden/Multilayer Perceptron (MLP).md",
     "Garden/Loewe Additivity.md",
