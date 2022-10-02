@@ -19,15 +19,23 @@ Where:
 
 ### Perceptron Learning
 * Applies Hebbian Learning, inspired by the Hebb Rule: "neurons that fire togther, wire togther"
+	* Rule by Donald Hebb (1949), quote by Seigird Lowel
 $$\LARGE
 w_{i,j}^{\mbox{\small (next step)}} = w_{i,j} + η(y_i - \hat y_j)x_i
 $$
-Where:
-* $w_{i,j}$ is the connection weight betwen the $i^{th}$ input neuron on the $j^{th}$ output neuron
-* $x_i$ is the $i^{th}$ input value of the current training instance
-* $\hat y_j$ is the output of the $j^{th}$ output neuron for the curren training instance
-* $y_i$ is the target output for the $j^{th}$ output neuron for the curren training instance
-* $η$ is the learning rate
+* Where:
+	* $w_{i,j}$ is the connection weight betwen the $i^{th}$ input neuron on the $j^{th}$ output neuron
+	* $x_i$ is the $i^{th}$ input value of the current training instance
+	* $\hat y_j$ is the output of the $j^{th}$ output neuron for the curren training instance
+	* $y_i$ is the target output for the $j^{th}$ output neuron for the curren training instance
+	* $η$ is the learning rate
+* *Perceptron convergence theorem*: Roenseblatt provided that of the training instances are linearly separable, this algorithm will always converge to a solution.
+
+## Single Layer Perceptron (SLP) Limitations
+* Due to a linear activation function, Single Layer Perceptrons are incapable of learning complex (i.e., non-linear) patterns
+	* Similar to Logistic Regression but outputting a hard prediction rather than a class probability
+		* May be a reason to prefer Logistic Regression of SLP
+* 
 ---
 # References
-1. [[@geronHandsOnMachineLearning]]: Chapter 10.
+1. [[@geronHandsOnMachineLearning]]: Chapter 10
