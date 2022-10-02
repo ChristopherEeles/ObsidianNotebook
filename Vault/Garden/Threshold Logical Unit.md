@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Deep Learning]] [[Neural Networks]] [[Artifical Intelligence]]
+Tags: [[Deep Learning]] [[Neural Networks]] [[Artifical Intelligence]] [[Step Functions]]
 
 # Threshold Logical Unit
 * Frank Rosenblatt invented in 1957
