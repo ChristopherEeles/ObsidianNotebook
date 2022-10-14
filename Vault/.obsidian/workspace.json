@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9d0e7b4f3e9c9bd0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +109,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9d0e7b4f3e9c9bd0",
+  "active": "dda5870b79d24f69",
   "lastOpenFiles": [
     "Garden/Threshold Logical Unit.md",
     "Garden/Single Layer Perceptron (SLP).md",
