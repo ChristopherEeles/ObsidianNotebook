@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "b26e6d706ca329d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "008a94374245e1b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda5870b79d24f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Backpropagation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d0e7b4f3e9c9bd0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc66d38bc0b06016",
+    "type": "split",
+    "children": [
+      {
+        "id": "12bf3a1511e095c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c7705007096e45d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b45bdbc815a5bc7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#statistics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 252.5
+  },
+  "right": {
+    "id": "f224b15bb5c8ed15",
+    "type": "split",
+    "children": [
+      {
+        "id": "aabba8eafa26a378",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fec9f463b3c70db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Garden/Backpropagation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "107c32d30d11a9e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9d0e7b4f3e9c9bd0",
+  "lastOpenFiles": [
+    "Garden/Threshold Logical Unit.md",
+    "Garden/Single Layer Perceptron (SLP).md",
+    "Garden/Loss Functions.md",
+    "Garden/Log2-Ratio.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Functions and Relations.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Double Dipping.md"
+  ]
+}
