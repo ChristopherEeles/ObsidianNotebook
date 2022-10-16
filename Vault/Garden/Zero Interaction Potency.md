@@ -18,7 +18,7 @@ Such that:
 
 $$\LARGE y_{ZIP}= \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}} + \frac{(\frac{x}{m_2})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} - \frac{(\frac{x}{m_1})^{\lambda_1}}{1 + (\frac{x}{m_1})^{\lambda_1}}\frac{(\frac{x}{m_1})^{\lambda_2}}{1 + (\frac{x}{m_2})^{\lambda_2}} \tag{ZIP-2}$$ 
 
-Where $y$ is predicted the biological response; $\lambda_1$ and $m_1$ are the Hill slope and $EC50$ of the dose-response curve, respectively.
+Where $y$ is the predicted biological response; $\lambda_1$ and $m_1$ are the Hill slope and $EC50$ of the dose-response curve, respectively.
 
 - Assumptions:
 	- Individual drugs are equally effective to reach the complete inhibition of cell growth ($E_{min}=0$, $E_{max}=1$)

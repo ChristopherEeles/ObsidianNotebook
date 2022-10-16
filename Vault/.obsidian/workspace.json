@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Early Stopping.md",
+                "file": "Garden/Zero Interaction Potency.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Early Stopping.md",
+                "file": "Garden/Zero Interaction Potency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,15 +172,15 @@
   },
   "active": "09c095e3856fb097",
   "lastOpenFiles": [
+    "Garden/Loss Functions.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Log2-Ratio.md",
+    "Garden/Early Stopping.md",
     "Garden/Learning Rate Scheduling.md",
     "Garden/Adam Optimization.md",
     "Garden/Adamax Optimization.md",
     "Garden/Operational Model of Agonism.md",
     "Garden/RMSProp Optimization.md",
-    "Garden/AdaGrad Optimization.md",
-    "Garden/Momentum Optimization.md",
-    "Garden/Loewe Additivity.md",
-    "Garden/Hill Equation.md",
-    "Garden/Highest Single Agent.md"
+    "Garden/AdaGrad Optimization.md"
   ]
 }

@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Regularization]] [[Deep Learning]] [[Artifical Intelligence]] [[Machine Learning]] [[Neural Networks]]
 
 # Early Stopping
 
