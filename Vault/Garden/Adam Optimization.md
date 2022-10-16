@@ -14,12 +14,12 @@ Tags: [[Machine Learning]] [[Neural Networks]] [[Optimizer]] [[Artifical Intelli
 
 1. Update momentum ($\large \mathbf{m}$) and squared gradients ($\large \mathbf{s}$) vectors:
 	* $\large \mathbf{m_t} = \beta_1 \cdot \mathbf{m_{t-1}} + (1 - \beta_1) \triangledown_{\theta}J(\theta_t)$
-	* $\large \mathbf{s_t} = \beta_2 \cdot \mathbf{s_{t-1}} + (1 - \beta_2) (\triangledown_{\theta}J(\theta_t))^2$
+	* $\large \mathbf{s_t} = \beta_2 \cdot \mathbf{s_{t-1}} + (1 - \beta_2) (\triangledown_{\theta}J(\theta_t))^2$ ^30c21d
 2. Adjust bias:
 	* $\large \mathbf{m_t} = \frac{\mathbf{m_t}}{1 - \beta_1^t}$
 	* $\large \mathbf{s_t} = \frac{\mathbf{s_t}}{1 - \beta_2^t}$
 3. Update weights ($\large \theta$):
-	* $\large \theta_t = \theta_{t-1} - \eta \cdot \mathbf{m_t} \oslash \sqrt{\mathbf{s_t} + \epsilon}$
+	* $\large \theta_t = \theta_{t-1} - \eta \cdot \mathbf{m_t} \oslash \sqrt{\mathbf{s_t} + \epsilon}$ ^0e83bb
 
 ## Pseudocode
 
