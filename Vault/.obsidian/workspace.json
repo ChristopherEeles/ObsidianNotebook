@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db90d6d051081944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/AdaGrad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,8 +122,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "abbfff5a88377011",
+  "active": "db90d6d051081944",
   "lastOpenFiles": [
+    "Garden/RMSProp.md",
+    "Garden/AdaGrad.md",
     "Garden/Backpropagation.md",
     "Garden/Artifical Intelligence.md",
     "Garden/Momentum Optimization.md",
@@ -118,8 +133,6 @@
     "Garden/Gradient Descent Momentum.md",
     "Garden/Threshold Logical Unit.md",
     "Garden/Single Layer Perceptron (SLP).md",
-    "Garden/Loss Functions.md",
-    "Garden/Log2-Ratio.md",
-    "Garden/Loewe Additivity.md"
+    "Garden/Loss Functions.md"
   ]
 }
