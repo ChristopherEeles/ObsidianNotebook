@@ -40,7 +40,10 @@ $$
 
 ## 1cycle
 * Grows the learning rate $\large \eta_0$ linearly up to $\large \eta_1$ half way through training
-* Then decrease the learning rate linearly to $\large \eta_0$ during the second half of traing 
+* Then decrease the learning rate linearly to $\large \eta_0$ during the second half of training
+* Last few epochs, linearly drop learning rate several orders of magnitude
+* Can also be used with momentum
+* Has been shown to significantly increase speed of convergence 
 
 
 ---
