@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Adamax Optimization.md",
+                "file": "Garden/Adam Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Adamax Optimization.md",
+                "file": "Garden/Adam Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,6 +148,7 @@
   },
   "active": "045f8f34957d6d81",
   "lastOpenFiles": [
+    "Garden/Adamax Optimization.md",
     "Garden/Adam Optimization.md",
     "Garden/Operational Model of Agonism.md",
     "Garden/RMSProp Optimization.md",
@@ -156,7 +157,6 @@
     "Garden/Loewe Additivity.md",
     "Garden/Hill Equation.md",
     "Garden/Highest Single Agent.md",
-    "Garden/Functions and Relations.md",
-    "Garden/Drug Combinations.md"
+    "Garden/Functions and Relations.md"
   ]
 }
