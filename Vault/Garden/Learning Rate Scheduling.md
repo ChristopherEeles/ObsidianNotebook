@@ -13,7 +13,7 @@ $$\LARGE
 \eta_t = \eta_0 \cdot 0.1^{\frac{t}{s}}
 $$
 * Where:
-	* $t$ is the epoch and $s$ is decay rate 
+	* $\large t$ is the epoch and $\large s$ is size of the decay
 * Works well but need to tune both $\large \eta_0$ and $\large s$
 
 ## Power
