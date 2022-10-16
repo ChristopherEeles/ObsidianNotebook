@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8faacab8c9913f73",
+        "id": "ffd4c80208bf3628",
         "type": "tabs",
         "children": [
           {
-            "id": "9a77933847024d2b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "78688862837fdc6a",
+            "id": "abbfff5a88377011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Momentum Optimization.md",
+                "file": "Garden/AdaGrad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Momentum Optimization.md",
+                "file": "Garden/AdaGrad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +109,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "78688862837fdc6a",
+  "active": "abbfff5a88377011",
   "lastOpenFiles": [
+    "Garden/Backpropagation.md",
+    "Garden/Artifical Intelligence.md",
     "Garden/Momentum Optimization.md",
     "Garden/Untitled 1.md",
     "Garden/Gradient Descent Momentum.md",
-    "Garden/Backpropagation.md",
     "Garden/Threshold Logical Unit.md",
     "Garden/Single Layer Perceptron (SLP).md",
     "Garden/Loss Functions.md",
     "Garden/Log2-Ratio.md",
-    "Garden/Loewe Additivity.md",
-    "Garden/Hill Equation.md"
+    "Garden/Loewe Additivity.md"
   ]
 }

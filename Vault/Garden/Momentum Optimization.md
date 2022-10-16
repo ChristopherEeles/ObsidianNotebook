@@ -2,7 +2,7 @@
 
 Status: #idea
 
-Tags: [[Machine Learning]] [[Deep Learning]] [[Artifical Intelligence]] [[Stochastic Gradient Descent]]
+Tags: [[Machine Learning]] [[Deep Learning]] [[Artifical Intelligence]] [[Stochastic Gradient Descent]] [[Nesterov Accelerated Gradient]]
 
 # Momentum Optimization
 
@@ -23,13 +23,15 @@ $$
 	* Accelerates convergence to local minima relative to standard gradient descent (SGD)
 * Increases for dimensions whose gradient points int he same direction, reduces update for gradients which change directions
 1. Update the momentum vector ($\large \mathbf{m}$):
-	-  *$\large \mathbf{m_t} = \beta \cdot \mathbf{m_{t-1}} \cdot \triangledown_{\theta}(\theta_t)$
+	-  $\large \mathbf{m_t} = \beta \cdot \mathbf{m_{t-1}} \cdot \triangledown_{\theta}J(\theta_t)$
 2. Update the weights ($\large \mathbf{\theta})$
 	* $\large \theta_t = \theta_{t-1} - \eta \cdot \mathbf{m_t}$
 
 ## Nesterov Accelerated Gradient
 * Evaluate the cost function slightly ahead of current position
-* 
+	*  Measure gradient at $\theta + \beta \mathbf{m}$ instead of $\theta$
+* Can be significantly faster than regular momentum optimizations
+	* Works due to momentum vector tending to point towards the optimum
 
 ---
 # References
