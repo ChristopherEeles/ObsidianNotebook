@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ffd4c80208bf3628",
+        "id": "8b574cd16fae75d6",
         "type": "tabs",
         "children": [
           {
-            "id": "abbfff5a88377011",
+            "id": "4e45df2ea2944891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/AdaGrad Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db90d6d051081944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/RMSProp Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92aaa2202e9f4b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Adam Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "045f8f34957d6d81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Adam Optimization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11831d94f91ed5f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Learning Rate Scheduling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09c095e3856fb097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Zero Interaction Potency.md",
+                "file": "Garden/Dropout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Zero Interaction Potency.md",
+                "file": "Garden/Dropout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,17 +109,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "09c095e3856fb097",
+  "active": "4e45df2ea2944891",
   "lastOpenFiles": [
+    "Garden/AdaGrad Optimization.md",
+    "Garden/RMSProp Optimization.md",
+    "Garden/Adam Optimization.md",
+    "Garden/Learning Rate Scheduling.md",
+    "Garden/Zero Interaction Potency.md",
     "Garden/Loss Functions.md",
     "Garden/Loewe Additivity.md",
     "Garden/Log2-Ratio.md",
     "Garden/Early Stopping.md",
-    "Garden/Learning Rate Scheduling.md",
-    "Garden/Adam Optimization.md",
-    "Garden/Adamax Optimization.md",
-    "Garden/Operational Model of Agonism.md",
-    "Garden/RMSProp Optimization.md",
-    "Garden/AdaGrad Optimization.md"
+    "Garden/Adamax Optimization.md"
   ]
 }
