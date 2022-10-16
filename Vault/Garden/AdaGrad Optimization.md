@@ -27,11 +27,11 @@ Tags: [[Machine Learning]] [[Artifical Intelligence]] [[Neural Networks]] [[Deep
 ```python
 grads_squared = 0
 learning_rate = 0.01
-epsilon= 1e-8
+epsilon = 1e-8
 for _ in n_epochs:
 	dw = compute_gradient(x, y)
 	grads_squared += grads_squared * dw * dw
-	w = w - (learning_rate - )
+	w = w - (learning_rate / np.sqrt(grads_squared + epsilon)) * dw
 ```
 
 ## Use Cases

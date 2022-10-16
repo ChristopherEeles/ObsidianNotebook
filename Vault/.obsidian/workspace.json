@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/AdaGrad.md",
+                "file": "Garden/AdaGrad Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/AdaGrad.md",
+                "file": "Garden/RMSProp Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92aaa2202e9f4b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Adam Optimization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/AdaGrad.md",
+                "file": "Garden/Adam Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +134,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "db90d6d051081944",
+  "active": "92aaa2202e9f4b5b",
   "lastOpenFiles": [
-    "Garden/RMSProp.md",
-    "Garden/AdaGrad.md",
-    "Garden/Backpropagation.md",
-    "Garden/Artifical Intelligence.md",
+    "Garden/Operational Model of Agonism.md",
+    "Garden/RMSProp Optimization.md",
+    "Garden/Adam Optimization.md",
+    "Garden/AdaGrad Optimization.md",
     "Garden/Momentum Optimization.md",
-    "Garden/Untitled 1.md",
-    "Garden/Gradient Descent Momentum.md",
-    "Garden/Threshold Logical Unit.md",
-    "Garden/Single Layer Perceptron (SLP).md",
-    "Garden/Loss Functions.md"
+    "Garden/Loewe Additivity.md",
+    "Garden/Hill Equation.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Functions and Relations.md",
+    "Garden/Drug Combinations.md"
   ]
 }
