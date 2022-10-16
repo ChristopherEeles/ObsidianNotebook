@@ -42,7 +42,7 @@ for _ in n_epochs:
 ```
 
 ## Nesterov Accelerated Gradient
-* Evaluate the cost function slightly ahead of current position
+* Evaluate the cost function slightly ahead of current position ^953fd8
 	*  Measure gradient at $\theta + \beta \mathbf{m}$ instead of $\theta$
 * Can be significantly faster than regular momentum optimizations
 	* Works due to momentum vector tending to point towards the optimum

@@ -44,9 +44,19 @@ for i in range(1, n_epochs + 1):
 	w = w - (learning_rate / np.sqrt(grads_squared + epsilon)) * grads_momentum
 ```
 
-## Use Cases
+# Adamax
+* Same algoirthm as [[Adam Optimization]] except the weight updates are scaled by the $\large \ell_{\inf}$ norm instead of the $\large \ell_2$ norm in the weight update step:
+	* Adam:![[Adam Optimization#^0e83bb]]
+	* Adamax:
+		* $\large \theta_t = \theta_{t-1} - \eta \cdot \mathbf{m_t} \oslash \max(s_t)$
+* More stable than Adam, but very dataset specific
+	* Adam generally gets better performance
 
-
+# Nadam
+* Variation of Adam optimizer which uses Nesterov Accelerated Gradient:
+![[Momentum Optimization#^953fd8]]
+* Converges slightly faster than vanilla Adam algorithm
+* Generally outperfomrns Adam, but sometimes underperforms [[RMSProp Optimization]]
 ---
 # References
 1. [[@geronHandsOnMachineLearning]]. Chapter 11.

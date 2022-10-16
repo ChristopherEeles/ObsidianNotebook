@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "11831d94f91ed5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Learning Rate Scheduling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Adam Optimization.md",
+                "file": "Garden/Learning Rate Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,17 +158,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "045f8f34957d6d81",
+  "active": "11831d94f91ed5f2",
   "lastOpenFiles": [
-    "Garden/Adamax Optimization.md",
+    "Garden/Learning Rate Scheduling.md",
     "Garden/Adam Optimization.md",
+    "Garden/Adamax Optimization.md",
     "Garden/Operational Model of Agonism.md",
     "Garden/RMSProp Optimization.md",
     "Garden/AdaGrad Optimization.md",
     "Garden/Momentum Optimization.md",
     "Garden/Loewe Additivity.md",
     "Garden/Hill Equation.md",
-    "Garden/Highest Single Agent.md",
-    "Garden/Functions and Relations.md"
+    "Garden/Highest Single Agent.md"
   ]
 }
