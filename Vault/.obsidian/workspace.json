@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "9c9e9395881c7bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garden/Data Engineer Role.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Garden/Data Engineer Role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "a6a9cba6f28d0adc",
+  "active": "9c9e9395881c7bd2",
   "lastOpenFiles": [
     "Garden/Dropout.md",
     "Garden/Convolutional Neural Networks (CNNs).md",
