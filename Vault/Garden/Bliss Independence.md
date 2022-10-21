@@ -15,7 +15,7 @@ $$\LARGE y_{bliss} = y_1 + y_2 - y_1y_2 \tag{Bliss-1}$$ ^e61386
 ## Bliss Independence from Viability
 Equation (Bliss-1) specifies the formula for Bliss when computed from response, but it is also possible to to compute this score from viability assays.
 
-Let $r_n$ be response for and $v_n$ be viability for dose-response curve $n$ where $r_n  \in [0, 1]$ and $v_n \in [1, 0]$, such that: $$\LARGE r_n=1-v_n \tag{Bliss-2}$$
+Let $r_n$ be response and $v_n$ be viability for dose-response curve $n$ where $r_n  \in [0, 1]$ and $v_n \in [1, 0]$, such that: $$\LARGE r_n=1-v_n \tag{Bliss-2}$$
 In this context we can rewrite (1) as:
 $$\LARGE r_{bliss} = r_1 + r_2 - r_1r_2 \tag{Bliss-3}$$
 
