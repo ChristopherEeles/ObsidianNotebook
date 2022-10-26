@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Bliss Independence.md",
+                "file": "Garden/Binding Mechanisms.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Bliss Independence.md",
+                "file": "Garden/Binding Mechanisms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "9c9e9395881c7bd2",
   "lastOpenFiles": [
+    "Garden/Bliss Independence.md",
     "Garden/Data Engineer Role.md",
     "Garden/Dropout.md",
     "Garden/Convolutional Neural Networks (CNNs).md",
@@ -128,7 +129,6 @@
     "Garden/Adam Optimization.md",
     "Garden/Learning Rate Scheduling.md",
     "Garden/Zero Interaction Potency.md",
-    "Garden/Loss Functions.md",
-    "Garden/Loewe Additivity.md"
+    "Garden/Loss Functions.md"
   ]
 }
