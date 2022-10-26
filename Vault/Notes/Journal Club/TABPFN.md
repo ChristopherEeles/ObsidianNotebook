@@ -10,4 +10,10 @@
 * Task for model is to correctly predict a held-out test data-point
 	* Not sampling values for our parameters, instead sampling datasets
 	* Learn a model $q_{\theta}$ for parameters $\theta$ 
-* 
+* Transformer architecture for tabular data using $n$ input pairs
+
+### Leveraging Meaningful Priors
+
+* Prior-fitting and inference
+	* Sample syntehetic datasets, $D_i$ from prior $D_i \sim p(D)$ 
+	* Learn structural causal model
