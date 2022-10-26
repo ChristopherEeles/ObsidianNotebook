@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vault/Garden/Binding Mechanisms.md",
+            "file": "Vault/Garden/Binding Cooperativity.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Garden/Binding Mechanisms.md",
+                "file": "Vault/Garden/Binding Cooperativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "cffe103063ddfdcc",
   "lastOpenFiles": [
+    "Vault/Garden/Binding Mechanisms.md",
     "Vault/Garden/Double Dipping.md",
     "Vault/Garden/Bliss Independence.md",
     "Vault/Garden/Drug Combinations.md",
@@ -97,7 +98,6 @@
     "Vault/Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
     "Vault/Notes/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md",
     "Vault/Notes/Work/BioC2022/Spatial Genomics Track Short Talks.md",
-    "Vault/Notes/Work/BioC2022/Metagenomics and Cancer Short Talks.md",
-    "Vault/Notes/Work/BioC2022/Assessing Cellular Heterogeniety Across Time and Disease Keynote.md"
+    "Vault/Notes/Work/BioC2022/Metagenomics and Cancer Short Talks.md"
   ]
 }
