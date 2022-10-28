@@ -4,7 +4,7 @@ Status: #idea
 
 Tags:
 
-# Artifical Neural Netowrks with Keras
+# Artifical Neural Networks with Keras
 
 
 

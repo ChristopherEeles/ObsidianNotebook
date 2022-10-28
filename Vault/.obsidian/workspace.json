@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Binding Mechanisms.md",
+                "file": "Garden/Zero Interaction Potency.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Binding Mechanisms.md",
+                "file": "Garden/Zero Interaction Potency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "9c9e9395881c7bd2",
   "lastOpenFiles": [
+    "Garden/Wald Test.md",
+    "Notes/Deep Learning/Artifical Neural Networks with Keras.md",
+    "Garden/Binding Mechanisms.md",
     "Garden/Bliss Independence.md",
     "Garden/Data Engineer Role.md",
     "Garden/Dropout.md",
     "Garden/Convolutional Neural Networks (CNNs).md",
     "Garden/AdaGrad Optimization.md",
     "Garden/RMSProp Optimization.md",
-    "Garden/Adam Optimization.md",
-    "Garden/Learning Rate Scheduling.md",
-    "Garden/Zero Interaction Potency.md",
-    "Garden/Loss Functions.md"
+    "Garden/Adam Optimization.md"
   ]
 }
