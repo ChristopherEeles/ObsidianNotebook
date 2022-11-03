@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Hill Equation.md",
+                "file": "Garden/Data Engineer Role.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Hill Equation.md",
+                "file": "Garden/Data Engineer Role.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "c279ad422415415b",
   "lastOpenFiles": [
+    "Garden/Dropout.md",
+    "Garden/Drug Combinations.md",
+    "Garden/Loewe Additivity.md",
+    "Garden/Highest Single Agent.md",
+    "Garden/Hill Equation.md",
     "Garden/Wald Test.md",
     "Notes/Deep Learning/Artifical Neural Networks with Keras.md",
     "Garden/Binding Mechanisms.md",
     "Garden/Bliss Independence.md",
-    "Garden/Data Engineer Role.md",
-    "Garden/Dropout.md",
-    "Garden/Convolutional Neural Networks (CNNs).md",
-    "Garden/AdaGrad Optimization.md",
-    "Garden/RMSProp Optimization.md",
-    "Garden/Adam Optimization.md"
+    "Garden/Data Engineer Role.md"
   ]
 }

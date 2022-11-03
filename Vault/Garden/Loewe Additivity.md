@@ -39,3 +39,4 @@ $$\LARGE CI = \frac{x_1}{m_1(\frac{y_c - E_{min}^1}{E_{max}^1 - y_c})^{1/\lambda
 # References
 [^1]: [[@yadavSearchingDrugSynergy2015]]
 [^2]: [[@vanderborghtBIGLBiochemicallyIntuitive2017]]
+[^3]: 
