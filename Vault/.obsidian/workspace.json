@@ -26,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c279ad422415415b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,10 +125,7 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9c9e9395881c7bd2",
+  "active": "c279ad422415415b",
   "lastOpenFiles": [
     "Garden/Wald Test.md",
     "Notes/Deep Learning/Artifical Neural Networks with Keras.md",
