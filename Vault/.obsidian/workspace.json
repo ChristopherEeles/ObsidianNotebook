@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a6a9cba6f28d0adc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "9c9e9395881c7bd2",
             "type": "leaf",
             "state": {
@@ -26,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c279ad422415415b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garden/Dropout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Dropout.md",
+                "file": "Garden/Zero Interaction Potency.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c279ad422415415b",
+  "active": "9c9e9395881c7bd2",
   "lastOpenFiles": [
+    "Garden/Zero Interaction Potency.md",
+    "Garden/Dropout.md",
     "Garden/Learning Rate Scheduling.md",
     "Garden/Activation Functions.md",
     "Garden/Data Engineer Role.md",
-    "Garden/Dropout.md",
     "Garden/Drug Combinations.md",
     "Garden/Loewe Additivity.md",
     "Garden/Highest Single Agent.md",
     "Garden/Hill Equation.md",
-    "Garden/Wald Test.md",
-    "Notes/Deep Learning/Artifical Neural Networks with Keras.md"
+    "Garden/Wald Test.md"
   ]
 }
