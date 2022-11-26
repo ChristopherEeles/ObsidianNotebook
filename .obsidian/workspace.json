@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Notes/Journal Club/TabPFN.md",
+                "file": "Vault/References/@vanlooAllelespecificCopyNumber2010.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault/Notes/Journal Club/TabPFN.md",
+                "file": "Vault/References/@vanlooAllelespecificCopyNumber2010.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "91abcba9acd9b88f",
   "lastOpenFiles": [
+    "Vault/References/@vanderborghtBIGLBiochemicallyIntuitive2017.md",
+    "Vault/References/@qwiklabsRoleDataEngineer.md",
+    "Vault/References/@pinkelHighResolutionAnalysis1998.md",
+    "Vault/References/@peifferHighresolutionGenomicProfiling2006.md",
+    "Vault/References/@motulskyFittingModelsBiological2004.md",
+    "Vault/References/@geronHandsOnMachineLearning.md",
     "Vault/Notes/Journal Club/TabPFN.md",
     "Vault/Garden/Binding Mechanisms.md",
     "Vault/Garden/Bliss Independence.md",
-    "Vault/Garden/Binding Cooperativity.md",
-    "Vault/Garden/Double Dipping.md",
-    "Vault/Garden/Drug Combinations.md",
-    "Vault/Garden/Functions and Relations.md",
-    "Vault/Notes/Work/BioC2022/Using EHR for Scientific Research Promises and Perils Keynote.md",
-    "Vault/Notes/Work/BioC2022/Single Cell Transcriptomics Keynote.md",
-    "Vault/Notes/Work/BioC2022/Systems Biology and Epigenetics Short Talks.md"
+    "Vault/Garden/Binding Cooperativity.md"
   ]
 }
