@@ -108,6 +108,8 @@
   },
   "active": "0f865b311174cf7c",
   "lastOpenFiles": [
+    "Garden/Binding Cooperativity.md",
+    "Garden/Beta vs M-Values.md",
     "Garden/Operational Model of Agonism.md",
     "Garden/Multilayer Perceptron (MLP).md",
     "Garden/Loss Functions.md",
@@ -115,8 +117,6 @@
     "Garden/Functions and Relations.md",
     "Garden/Early Stopping.md",
     "Garden/Drug Combinations.md",
-    "Garden/Double Dipping.md",
-    "Garden/Activation Functions.md",
-    "Garden/AdaGrad Optimization.md"
+    "Garden/Double Dipping.md"
   ]
 }

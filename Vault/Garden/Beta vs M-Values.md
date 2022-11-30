@@ -29,7 +29,7 @@ $$
 ## Converting Between M- and B-Values
 
 $$\large
-Beta_i = 2
+Beta_i = \frac{2^{M_i}}{2^{M_i} + 1}; M_i = log_2\left(\frac{Beta_i}{1 - Beta_i}\right)
 $$
 
 ---
