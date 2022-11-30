@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8ece11a68805c405",
+        "id": "6837d7f31076548c",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9e9395881c7bd2",
+            "id": "0f865b311174cf7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/AdaGrad Optimization.md",
+                "file": "Garden/Beta vs M-Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/AdaGrad Optimization.md",
+                "file": "Garden/Beta vs M-Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c9e9395881c7bd2",
+  "active": "0f865b311174cf7c",
   "lastOpenFiles": [
-    "Garden/Adam Optimization.md",
-    "Garden/AdaGrad Optimization.md",
-    "Garden/Allele Specific Copy Number.md",
-    "Garden/Zero Interaction Potency.md",
-    "Garden/Dropout.md",
-    "Garden/Learning Rate Scheduling.md",
-    "Garden/Activation Functions.md",
-    "Garden/Data Engineer Role.md",
+    "Garden/Operational Model of Agonism.md",
+    "Garden/Multilayer Perceptron (MLP).md",
+    "Garden/Loss Functions.md",
+    "Garden/Hill Equation.md",
+    "Garden/Functions and Relations.md",
+    "Garden/Early Stopping.md",
     "Garden/Drug Combinations.md",
-    "Garden/Loewe Additivity.md"
+    "Garden/Double Dipping.md",
+    "Garden/Activation Functions.md",
+    "Garden/AdaGrad Optimization.md"
   ]
 }
