@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "243d97f2bc7da8be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,18 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f865b311174cf7c",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "243d97f2bc7da8be",
   "lastOpenFiles": [
     "Garden/Binding Cooperativity.md",
     "Garden/Beta vs M-Values.md",
