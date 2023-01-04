@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garden/Adam Optimization.md",
+                "file": "Garden/Early Stopping.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Garden/Adam Optimization.md",
+                "file": "Garden/Early Stopping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "0f865b311174cf7c",
   "lastOpenFiles": [
+    "Garden/Adam Optimization.md",
     "Garden/AdaGrad Optimization.md",
     "Garden/Activation Functions.md",
     "Garden/Beta vs M-Values.md",
@@ -127,7 +128,6 @@
     "Garden/Multilayer Perceptron (MLP).md",
     "Garden/Loss Functions.md",
     "Garden/Hill Equation.md",
-    "Garden/Functions and Relations.md",
-    "Garden/Early Stopping.md"
+    "Garden/Functions and Relations.md"
   ]
 }
